@@ -26,7 +26,11 @@ Other codes were employed on a system with the following specifications:
 The main software requirements are Python 3.9 with transformers 4.31 and torch 2.0. Other libraries used include pandas, numpy, matplotlib, sklearn, scipy, statsmodels, shapely, and geopandas.
 
 ## Installation guide <a id="Installationguide"></a>
+The implementation is distributed as source code rather than a packaged module. Researchers may either:
 
+1. Download the compressed archive via the GitHub interface
+
+2. Clone the repository using standard Git workflows
 
 ## Demo <a id="Demo"></a>
 
