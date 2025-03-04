@@ -11,16 +11,16 @@ This repository includes the code and data necessary to reproduce the results an
 ## Overview <a id="Overview"></a>
 
 
-## System Requirements <a id="System Requirements"></a>
+## System Requirements <a id="SystemRequirements"></a>
 
 
-## Installation guide <a id="Installation guide"></a>
+## Installation guide <a id="Installationguide"></a>
 
 
 ## Demo <a id="Demo"></a>
 
 
-## Instructions for use <a id="Instructions for use"></a>
+## Instructions for use <a id="Instructionsforuse"></a>
 
 
 ## Contact <a id="Contact"></a>
