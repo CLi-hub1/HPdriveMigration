@@ -22,7 +22,7 @@ Other codes were employed on a system with the following specifications:
 - memory (RAM): 16GB
 - disk storage: 500GB
 - GPU: 1x NVIDIA GeForce GTX 1650
-The main software requirements are Python 3.7 with TensorFlow r1.15, 
+The main software requirements are Python 3.9 with transformers 4.31 and torch 2.0, Other libraries used include pandas, numpy, matplotlib, sklearn, scipy, statsmodels, shapely, and geopandas.
 
 ## Installation guide <a id="Installationguide"></a>
 
