@@ -36,9 +36,9 @@ The implementation is distributed as source code rather than a packaged module. 
 The code provided in this repository is source code that can be run directly under the appropriate compilation environment.
 
 ## Instructions for use <a id="Instructionsforuse"></a>
-### Data Preparation Instructions
+### Data preparation Instructions
 
-### Model Instructions
+### Model instructions
 
 ### Reproduction instructions
 
