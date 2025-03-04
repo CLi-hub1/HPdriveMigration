@@ -15,13 +15,13 @@ Migration is becoming a major force in the dynamics of population allocation, wi
 This repository consists of four main parts of code. The first one is to fine-tune the pre-trained DistilBERT model using our annotated dataset, which in turn predicts the classification to which the heat-related policies(HPs) belongs; the second one is to investigate the causal effect of HPs on migration, which mainly consists of our proposed G2SLS method and the traditional TWFE, OLS method; the third is to estimate the heterogeneity of the effect across geographical regions and policy types; and the fourth is to calculate the mediating impact of climate-related public opinion on migration due to HPs. 
 
 ## System Requirements <a id="SystemRequirements"></a>
-The code for clasifying 
-This code was tested on a system with the following specifications:
+The code to categorize heat-related policies ran on a 1x NVIDIA GeForce RTX 4090.
+Other codes were employed on a system with the following specifications:
 - operating system: Windows 10
-- CPU: Intel Xeon Silver 4110
-- memory (RAM): 125GB
+- CPU: AMD Ryzen 7 5800H
+- memory (RAM): 16GB
 - disk storage: 500GB
-- GPU: 1x NVIDIA Titan Xp
+- GPU: 1x NVIDIA GeForce GTX 1650
 
 ## Installation guide <a id="Installationguide"></a>
 
