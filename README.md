@@ -1,4 +1,4 @@
-# Heat-related policies drive population out-migration in the U.S. [![PyPI Version](https://img.shields.io/pypi/v/projectname.svg)](https://pypi.org/projectprojectname/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
+# Heat-related policies drive population out-migration in the U.S. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
 This repository includes the code and data necessary to reproduce the results and figures for the article "Heat-related policies drive population out-migration in the U.S." 
 
 - [Overview](#Overview)
