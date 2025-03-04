@@ -32,6 +32,8 @@ The implementation is distributed as source code rather than a packaged module. 
 
 2. Clone the repository using standard Git workflows
 
+Expected outputs vary depending on the code and generally include categorized and attributed outputs.
+
 ## Demo <a id="Demo"></a>
 The code provided in this repository is source code that can be run directly under the appropriate compilation environment.
 
