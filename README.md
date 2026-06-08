@@ -40,7 +40,7 @@ Expected outputs vary depending on the code and generally include categorized an
 ## Instructions for use <a id="Instructionsforuse"></a>
 The source of the raw data has been provided as the link in the paper, and the authors did not use software to collect the raw data but downloaded it directly through the link. 
 
-For the data preprocessing section, the relevant code has been provided in the Data preparation folder; for the modeling section, the relevant code has been provided in the Model folder. This folder includes a machine learning-based classification model for HPs, attribution models based on OLS, TWFE, and G2SLS, and multiple validations for the robustness of the attribution results; for the reproduction section, the Reproduction folder includes the data that produces the plots in the manuscript.
+For the data preprocessing section, the relevant code has been provided in the Data preparation folder; for the modeling section, the relevant code has been provided in the Model folder. This folder includes a machine learning-based classification model for HPs, attribution models based on OLS, gravity-type fixed-effects models, and multiple validations for the robustness of the attribution results; for the reproduction section, the Reproduction folder includes the data that produces the plots in the manuscript.
 
 ## Contact <a id="Contact"></a>
 For questions and support:
