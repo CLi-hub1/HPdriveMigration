@@ -1,0 +1,8 @@
+Year,county_years,AP_action_groups,MP_action_groups,AP_labels,MP_labels,in_primary_regression
+2017,79,132,610,149,664,True
+2018,56,129,510,148,572,True
+2019,69,156,630,178,819,True
+2020,80,209,815,245,908,True
+2021,85,228,869,270,963,True
+2022,81,263,890,338,1060,True
+2023,78,301,837,394,978,False

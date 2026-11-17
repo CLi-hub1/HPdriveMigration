@@ -1,0 +1,87 @@
+﻿Regressor,Linear interactions,Quadratic interactions
+Constant,"−9.3388***
+(0.1758)","−12.3843***
+(0.9306)"
+O AP Tech,"−0.0332*
+(0.0170)","−0.5209***
+(0.1305)"
+O AP Beh,"0.0194
+(0.0283)","−0.2142
+(0.2155)"
+O AP Nature,"0.0359
+(0.0490)","0.6833
+(0.4205)"
+O MP Beh,"0.0687***
+(0.0115)","0.4856***
+(0.0723)"
+O MP Nature,"0.0793**
+(0.0384)","0.2401
+(0.2994)"
+D AP Inst,"0.0809***
+(0.0236)","0.8483***
+(0.2298)"
+D MP Inst,"−0.0273**
+(0.0110)","−0.0537
+(0.0943)"
+D MP Beh,"−0.0142
+(0.0123)","−0.3293***
+(0.0735)"
+rent burden O,"0.0975
+(0.2409)","−0.4448
+(2.6701)"
+rent burden O²,—,"0.4405
+(2.5524)"
+rent burden D,"0.4687*
+(0.2563)","13.2137***
+(2.4744)"
+rent burden D²,—,"−12.5351***
+(2.4426)"
+O AP Tech × rent burden O,"0.0611*
+(0.0330)","1.9650***
+(0.4968)"
+O AP Tech × rent burden O²,—,"−1.8391***
+(0.4702)"
+O AP Beh × rent burden O,"−0.0215
+(0.0566)","0.9065
+(0.8772)"
+O AP Beh × rent burden O²,—,"−0.9132
+(0.8926)"
+O AP Nature × rent burden O,"−0.0926
+(0.0938)","−2.6228
+(1.6491)"
+O AP Nature × rent burden O²,—,"2.4580
+(1.6094)"
+O MP Beh × rent burden O,"−0.1194***
+(0.0220)","−1.7966***
+(0.2808)"
+O MP Beh × rent burden O²,—,"1.6608***
+(0.2716)"
+O MP Nature × rent burden O,"−0.1698**
+(0.0740)","−0.7661
+(1.1242)"
+O MP Nature × rent burden O²,—,"0.5554
+(1.0481)"
+D AP Inst × rent burden D,"−0.1372***
+(0.0461)","−3.1116***
+(0.8993)"
+D AP Inst × rent burden D²,—,"2.8621***
+(0.8748)"
+D MP Inst × rent burden D,"0.0587***
+(0.0214)","0.1683
+(0.3621)"
+D MP Inst × rent burden D²,—,"−0.1181
+(0.3454)"
+D MP Beh × rent burden D,"0.0082
+(0.0236)","1.2476***
+(0.2911)"
+D MP Beh × rent burden D²,—,"−1.1982***
+(0.2854)"
+Observations,"16,709","16,709"
+Directed pairs,"5,065","5,065"
+Residual df,"11,621","11,611"
+Pair fixed effects,Yes,Yes
+Year fixed effects,Yes,Yes
+SE clustering,directed county pair,directed county pair
+R²,0.0201,0.0356
+Within R²,0.0139,0.0259
+RMSE,0.1520,0.1508
