@@ -1,3 +1,0 @@
-﻿Specification,N,R2,R2_within,RMSE,directed_pairs,df_resid,slope_parameter_count,effects_df,pair_FE,year_FE,cluster
-degree1_renewable_generation,16709,0.018278822857694,0.0152465661196684,0.1521068011709746,5065,11621,19,5069,True,True,directed county pair
-degree2_renewable_generation,16709,0.0248838613947885,0.0196456297240831,0.1515942488916363,5065,11611,29,5069,True,True,directed county pair

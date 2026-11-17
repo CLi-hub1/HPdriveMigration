@@ -1,9 +1,0 @@
-sample,outcome,focal_tests,nominal_p_lt_005,nominal_p_lt_010,bh_q_within_outcome_lt_005,holm_p_within_outcome_lt_005,bh_q_global_160_lt_005,holm_p_global_160_lt_005
-all_available,ln_person_flow_rate,40,9,12,0.0,0.0,0.0,0.0
-all_available,ln_return_flow_rate,40,10,15,0.0,0.0,0.0,0.0
-all_available,asinh_mean_agi_10k,40,0,1,0.0,0.0,0.0,0.0
-all_available,asinh_agi_intensity_10k,40,5,6,2.0,1.0,0.0,0.0
-exclude_2022_2023,ln_person_flow_rate,40,4,10,,,,
-exclude_2022_2023,ln_return_flow_rate,40,3,8,,,,
-exclude_2022_2023,asinh_mean_agi_10k,40,0,1,,,,
-exclude_2022_2023,asinh_agi_intensity_10k,40,3,4,,,,

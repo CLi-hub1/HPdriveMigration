@@ -1,3 +1,0 @@
-﻿Specification,N,R2,R2_within,RMSE,directed_pairs,df_resid,slope_parameter_count,effects_df,pair_FE,year_FE,cluster
-degree1_income,16709,0.0258335022714386,0.0202762950831195,0.1515204140136353,5065,11621,19,5069,True,True,directed county pair
-degree2_income,16709,0.0379992487040292,0.0048394619233237,0.1505713204581334,5065,11611,29,5069,True,True,directed county pair

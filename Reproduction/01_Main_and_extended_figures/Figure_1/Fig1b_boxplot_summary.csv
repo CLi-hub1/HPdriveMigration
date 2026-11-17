@@ -1,5 +1,0 @@
-﻿family,role,variable,n,q1,median,q3,whisker_low,whisker_high
-AP,origin,APtotal,448,1.0,2.0,3.0,0.0,16.0
-AP,destination_partner_mean,APtotal_dest,448,3.0705030487804876,3.9114420062695925,4.912658802177859,1.9836065573770487,9.0
-MP,origin,MPtotal,448,3.0,7.0,14.0,1.0,50.0
-MP,destination_partner_mean,MPtotal_dest,448,12.141625615763546,13.45248538011696,15.354166666666668,8.25,20.181818181818183
