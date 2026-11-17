@@ -1,0 +1,237 @@
+{
+  "status": "DESIGN FROZEN BEFORE SEARCH",
+  "training_csv_sha256": "1e6598b497eedc14caace5b35bf43c98426efc3ef34ed33dfdfa76c476291115",
+  "human_labels_sha256": "e42e0ac937502dd969525aae5003bffe0f489796fed141912570364fd01f5fba",
+  "base_revision": "12040accade4e8a0f71eabdb258fecc2e7e948be",
+  "base_weights_sha256": {
+    "model.safetensors": "5e3f1108e3cb34ee048634875d8482665b65ac713291a7e32396fb18f6ff0063"
+  },
+  "script_sha256": "149261232d9a81c0f57380c8097fb6cd9f7fbb6317837ce17a3da527340616ee",
+  "rows": 964,
+  "connected_groups": 95,
+  "folds": [
+    {
+      "fold": 0,
+      "train_n": 718,
+      "validation_n": 246,
+      "train_groups": 94,
+      "validation_groups": 1
+    },
+    {
+      "fold": 1,
+      "train_n": 784,
+      "validation_n": 180,
+      "train_groups": 72,
+      "validation_groups": 23
+    },
+    {
+      "fold": 2,
+      "train_n": 784,
+      "validation_n": 180,
+      "train_groups": 72,
+      "validation_groups": 23
+    },
+    {
+      "fold": 3,
+      "train_n": 785,
+      "validation_n": 179,
+      "train_groups": 71,
+      "validation_groups": 24
+    },
+    {
+      "fold": 4,
+      "train_n": 785,
+      "validation_n": 179,
+      "train_groups": 71,
+      "validation_groups": 24
+    }
+  ],
+  "seed": 20261020,
+  "candidate_budget_per_strategy": 12,
+  "fit_budget_per_strategy": 60,
+  "total_fit_budget": 180,
+  "selection_objective": "Unweighted mean of five validation-fold micro F1 scores",
+  "search_bounds": {
+    "learning_rate": [
+      1e-05,
+      5e-05
+    ],
+    "epochs": [
+      3,
+      5
+    ],
+    "batch_size": [
+      8,
+      16
+    ],
+    "max_length": 512
+  },
+  "grid_candidates": [
+    {
+      "learning_rate": 1e-05,
+      "epochs": 3,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 1e-05,
+      "epochs": 3,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 1e-05,
+      "epochs": 5,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 1e-05,
+      "epochs": 5,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 3e-05,
+      "epochs": 3,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 3e-05,
+      "epochs": 3,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 3e-05,
+      "epochs": 5,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 3e-05,
+      "epochs": 5,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 5e-05,
+      "epochs": 3,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 5e-05,
+      "epochs": 3,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 5e-05,
+      "epochs": 5,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 5e-05,
+      "epochs": 5,
+      "batch_size": 16,
+      "max_length": 512
+    }
+  ],
+  "random_candidates": [
+    {
+      "learning_rate": 4.0552527677052594e-05,
+      "epochs": 3,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 3.99406437075536e-05,
+      "epochs": 5,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 3.153344254351094e-05,
+      "epochs": 3,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 1.1569338429735725e-05,
+      "epochs": 5,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 1.4456278032035004e-05,
+      "epochs": 5,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 4.964986826103596e-05,
+      "epochs": 3,
+      "batch_size": 8,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 1.5515686935039304e-05,
+      "epochs": 3,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 2.4059538615801724e-05,
+      "epochs": 5,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 3.424359290329474e-05,
+      "epochs": 3,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 2.3559892724457284e-05,
+      "epochs": 5,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 1.781814482672157e-05,
+      "epochs": 5,
+      "batch_size": 16,
+      "max_length": 512
+    },
+    {
+      "learning_rate": 3.006797283774433e-05,
+      "epochs": 5,
+      "batch_size": 8,
+      "max_length": 512
+    }
+  ],
+  "random_algorithm": "NumPy seeded log-uniform learning rate, uniform discrete epochs/batch",
+  "bayesian_algorithm": "Optuna TPESampler(seed, n_startup_trials=4), 12 sequential trials; no pruning",
+  "shared_initialization": "Every candidate/fold loads fresh public pretrained weights; fresh head initialized with seed+fold. No fold/checkpoint resume.",
+  "optimizer": "AdamW, weight_decay=0, linear LR decay, warmup=0, clip_grad_norm=1",
+  "precision": "bf16 autocast; float32 model parameters",
+  "threshold": "sigmoid(logit)>0.5; threshold not tuned",
+  "metrics": {
+    "Loss": "Mean binary cross-entropy over all labels and validation rows",
+    "Accuracy": "Subset accuracy: all four labels match",
+    "Precision": "micro",
+    "Recall": "micro",
+    "F1": "micro",
+    "ROC AUC": "Unweighted mean of four label ROC AUCs"
+  },
+  "evaluation_limit": "The displayed best-candidate CV folds also selected hyperparameters. Selection-optimistic internal CV, not nested or external validation.",
+  "nested_cv_minimum": "5 outer grouped folds x 3 inner grouped folds x 12 candidates x 3 strategies = 540 inner fits +15 outer refits, each initialized anew. New-year independently labelled holdout still required.",
+  "existing_regression_classifier_replaced": false,
+  "network_upload": false,
+  "paid_api": false,
+  "result_cache": "Only exact completed candidate/fold results from this immutable design may resume; never model weights."
+}

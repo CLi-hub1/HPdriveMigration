@@ -1,0 +1,11 @@
+{
+  "executable": "python.exe",
+  "torch": "2.8.0+cu128",
+  "transformers": "4.57.6",
+  "optuna": "4.8.0",
+  "gpu": "NVIDIA GeForce RTX 5080",
+  "free_total_GPU_bytes": [
+    15712911360,
+    17066033152
+  ]
+}

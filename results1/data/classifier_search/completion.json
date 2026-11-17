@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETE",
+  "completed_candidate_count": 36,
+  "completed_fold_count": 180,
+  "selected_fold_count": 15,
+  "design_sha256": "164788b6051224e57d065f412e8f56b7e48c6e1b15c21d670588ee4130c4f29a",
+  "all_folds_sha256": "52136fe521dafbb99f251b54e8b7b3482e2fa9d66352f4d8b902f09af8dda60e",
+  "interpretation": "Selected internal grouped CV; not an unbiased post-tuning external benchmark.",
+  "frozen_regression_classifier_changed": false
+}

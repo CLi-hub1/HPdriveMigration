@@ -1,0 +1,90 @@
+{
+  "policy_source": "county_year_classified_2017_2023.csv",
+  "policy_sha256": "55f21b1598d467b980032f4f8c603a8cd3b1ee70ab8b989847acf753cd80ae90",
+  "policy_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "alignment": "policy report t; IRS flow from t+lag to t+lag+1; ACS origin population at flow start",
+  "unmatched_policy_years": [
+    2023
+  ],
+  "missing_policy_or_suppressed_flows_imputed_as_zero": false,
+  "geography": "contiguous US; Connecticut excluded in every year to avoid boundary-break incompatibility",
+  "panels": [
+    {
+      "lag": 0,
+      "N": 16709,
+      "origins": 107,
+      "destinations": 107,
+      "county_union": 108,
+      "policy_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "flow_start_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "sha256": "8accf45f2dad0fbbd40a2a9d8e644aa2d2d756d25cd73f984bd670617e572e1a",
+      "numerically_identical_to_previous_panel": false
+    },
+    {
+      "lag": 1,
+      "N": 13217,
+      "origins": 105,
+      "destinations": 105,
+      "county_union": 105,
+      "policy_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "flow_start_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "sha256": "b83c528d4f328ef8bbaac972441d45cfb08b65c1494addb2b5463acc94c62786",
+      "numerically_identical_to_previous_panel": false
+    },
+    {
+      "lag": 2,
+      "N": 9823,
+      "origins": 101,
+      "destinations": 100,
+      "county_union": 101,
+      "policy_years": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "flow_start_years": [
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "sha256": "a44a761a54aee445317ffca572d1b9a7bdcf88676a91eac0186332337faa867f",
+      "numerically_identical_to_previous_panel": false
+    }
+  ]
+}
