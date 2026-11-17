@@ -135,16 +135,6 @@ Generated files are written by default under `manuscript_code_outputs/` in the p
 
 Fixed-effects baseline and type-sensitivity results can be checked with `verify_core_models.py`. The aggregate random-effects comparator can differ slightly from the saved figure source on re-estimation; in the checked environment the largest absolute coefficient difference was approximately 1.17 × 10⁻⁷ and the largest P-value difference was approximately 0.00028. The cause of this difference has not been established. The figure script reads the saved plot data.
 
-## Data sources
-
-- [CDP Open Data Portal](https://data.cdp.net/) — reported adaptation and mitigation actions.
-- [Internal Revenue Service](https://www.irs.gov/statistics/soi-tax-stats-migration-data) — county-to-county migration records.
-- [US Census Bureau](https://data.census.gov/) — population and socioeconomic estimates; [TIGER/Line](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) — county boundaries.
-- [US Forest Service](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) — tree-canopy cover.
-- [Federal Housing Finance Agency](https://www.fhfa.gov/data/hpi/datasets) — house-price indices.
-- [US Energy Information Administration](https://www.eia.gov/electricity/data/eia923/) and [EIA-860](https://www.eia.gov/electricity/data/eia860/) — electricity generation and plant locations.
-- [OpenStreetMap / ohsome](https://heigit.org/technology/) — mapped indoor facilities.
-
 ## Contact
 
-For questions about the study or code, contact **Xing Su** (xsu@zju.edu.cn) or **Chao Fan** (cfan@g.clemson.edu).
+For questions about the study or code, contact **Xing Su** (xsu@zju.edu.cn)
