@@ -1,0 +1,1021 @@
+﻿Year,Account,answered_both,GEOID,mapping_source,historical_GEOID,coordinate_GEOID,Organization,City,Coordinates,mapping_flags,mapping_strict_ok,eligible_both
+2017,10495,True,32003,historical_account,32003,32003,City of Las Vegas,Las Vegas,POINT (-115.1398296  36.1699412);POINT (-115.1398296 36.1699412),,True,True
+2017,10894,True,06037,historical_account,06037,06037,City of Los Angeles,Los Angeles,POINT (-118.2436849  34.0522342);POINT (-118.2436849 34.0522342),,True,True
+2017,1093,True,13121,historical_account,13121,13121,City of Atlanta,Atlanta,POINT (-84.3879824  33.7489954);POINT (-84.3879824 33.7489954),,True,True
+2017,1184,True,48453,historical_account,48453,48453,City of Austin,Austin,POINT (-97.7431  30.2672);POINT (-97.7431 30.2672),,True,True
+2017,13067,True,22071,historical_account,22071,22071,City of New Orleans,New Orleans,POINT (-90.0715  29.9511);POINT (-90.0715 29.9511),,True,True
+2017,14344,True,49043,historical_account,49043,49043,"City of Park City, UT","Park City, UT",POINT (-111.498  40.6461);POINT (-111.498 40.6461),,True,True
+2017,14874,True,41051,historical_account,41051,41051,"City of Portland, OR","Portland, OR",POINT (-122.6819  45.52);POINT (-122.6819 45.52),,True,True
+2017,16581,True,53033,historical_account,53033,53033,City of Seattle,Seattle,POINT (-122.3321  47.6062);POINT (-122.3321 47.6062),,True,True
+2017,2430,True,50007,historical_account,50007,50007,City of Burlington,Burlington,POINT (-73.212072  44.4758825);POINT (-73.212072 44.4758825),,True,True
+2017,31090,True,11001,historical_account,11001,11001,District of Columbia,"Washington, DC",POINT (-77.0368707  38.9071923);POINT (-77.0368707 38.9071923),,True,True
+2017,31108,True,48201,historical_account,48201,48201,City of Houston,Houston,POINT (-95.3693896  29.7601927);POINT (-95.3693896 29.7601927),,True,True
+2017,31177,True,49035,historical_account,49035,49035,Salt Lake City,Salt Lake City,POINT (-111.891  40.7608);POINT (-111.891 40.7608),,True,True
+2017,31181,True,42101,historical_account,42101,42101,City of Philadelphia,Philadelphia,POINT (-75.163789  39.952335);POINT (-75.163789 39.952335),,True,True
+2017,31182,True,06075,historical_account,06075,06075,City of San Francisco,San Francisco,POINT (-122.4194155  37.7749295);POINT (-122.4194155 37.7749295),,True,True
+2017,3203,True,17031,historical_account,17031,17031,City of Chicago,Chicago,POINT (-87.6297982  41.8781136);POINT (-87.6297982 41.8781136),,True,True
+2017,32550,True,08031,historical_account,08031,08031,City of Denver,Denver,POINT (-104.9847179  39.737567);POINT (-104.9847179 39.737567),,True,True
+2017,3417,True,36061,historical_account,36061,36061,New York City,New York City,POINT (-74.0059413  40.7127837);POINT (-74.0059413 40.7127837),,True,True
+2017,35268,True,25025,historical_account,25025,25025,City of Boston,Boston,POINT (-71.0597732  42.3584308);POINT (-71.0597732 42.3584308),,True,True
+2017,35274,True,23005,historical_account,23005,23005,"City of Portland, ME","Portland, ME",POINT (-70.2553  43.6615);POINT (-70.2553 43.6615),,True,True
+2017,35393,True,29510,historical_account,29510,29510,City of St Louis,St Louis,POINT (-90.1994  38.627);POINT (-90.1994 38.627),,True,True
+2017,35853,True,24510,historical_account,24510,24510,City of Baltimore,Baltimore,POINT (-76.6121893  39.2903848);POINT (-76.6121893 39.2903848),,True,True
+2017,35857,True,39061,historical_account,39061,39061,City of Cincinnati,Cincinnati,POINT (-84.512  39.1031);POINT (-84.512 39.1031),,True,True
+2017,35859,True,39035,historical_account,39035,39035,City of Cleveland,Cleveland,POINT (-81.6944  41.4993);POINT (-81.6944 41.4993),,True,True
+2017,35860,True,48113,historical_account,48113,48113,City of Dallas,Dallas,POINT (-96.8004511  32.7801399);POINT (-96.8004511 32.7801399),,True,True
+2017,35862,False,26163,historical_account,26163,26163,City of Detroit,Detroit,POINT (-83.0457538  42.331427),,True,False
+2017,35870,True,12086,historical_account,12086,12086,City of Miami,Miami,POINT (-80.1918  25.7617);POINT (-80.1918 25.7617),,True,True
+2017,35874,True,04013,historical_account,04013,04013,City of Phoenix,Phoenix,POINT (-112.074  33.4484);POINT (-112.074 33.4484),,True,True
+2017,35877,True,42003,historical_account,42003,42003,City of Pittsburgh,Pittsburgh,POINT (-79.9958864  40.4406248);POINT (-79.9958864 40.4406248),,True,True
+2017,35878,True,06067,historical_account,06067,06067,City of Sacramento,Sacramento,POINT (-121.4944  38.5816);POINT (-121.4944 38.5816),,True,True
+2017,35879,True,27053,historical_account,27053,27053,City of Minneapolis,Minneapolis,POINT (-93.26667  44.983334);POINT (-93.26667 44.983334),,True,True
+2017,35883,True,06085,historical_account,06085,06085,City of San José,San José,POINT (-121.8863  37.3382);POINT (-121.8863 37.3382),,True,True
+2017,35884,False,06073,historical_account,06073,06073,City of San Diego,San Diego,POINT (-117.1701 32.718146),,True,False
+2017,36410,False,47157,historical_account,47157,47157,City of Memphis,Memphis,POINT (-90.04898  35.149534),,True,False
+2017,43905,True,48029,historical_account,48029,48029,City of San Antonio,San Antonio,POINT (-98.4936  29.4241);POINT (-98.4936 29.4241),,True,True
+2017,43907,True,18097,historical_account,18097,18097,City of Indianapolis,Indianapolis,POINT (-86.178469  39.767625);POINT (-86.178469 39.767625),,True,True
+2017,43908,True,55079,historical_account,55079,55079,City of Milwaukee,Milwaukee,POINT (-87.9065  43.0389);POINT (-87.9065 43.0389),,True,True
+2017,43909,False,12095,historical_account,12095,12095,City of Orlando,Orlando,POINT (-81.3792  28.5383),,True,False
+2017,43910,True,39049,historical_account,39049,39049,City of Columbus,Columbus,POINT (-82.9987942  39.9611755);POINT (-82.9987942 39.9611755),,True,True
+2017,43914,False,37119,historical_account,37119,37119,City of Charlotte,Charlotte,POINT (-80.8431  35.2271);POINT (-80.8431 35.2271),,True,False
+2017,49327,True,44007,historical_account,44007,44007,City of Providence,Providence,POINT (-71.4128  41.824);POINT (-71.4128 41.824),,True,True
+2017,49333,False,21111,historical_account,21111,21111,"City of Louisville, KY","Louisville, KY",POINT (-85.678429  38.196027);POINT (-85.678429 38.196027),,True,False
+2017,49334,True,51760,historical_account,51760,51760,"City of Richmond, VA","Richmond, VA",POINT (-77.436048  37.540725);POINT (-77.436048 37.540725),,True,True
+2017,49335,True,47037,historical_account,47037,47037,Metropolitan Government of Nashville and Davidson County,Nashville and Davidson,POINT (-86.7816  36.1627);POINT (-86.7816 36.1627),,True,True
+2017,49342,False,36055,historical_account,36055,36055,City of Rochester,Rochester,POINT (-77.6109  43.161);POINT (-77.6109 43.161),,True,False
+2017,49343,False,48141,historical_account,48141,48141,City of El Paso,El Paso,POINT (-106.485  31.7619),,True,False
+2017,49344,False,37183,historical_account,37183,37183,City of Raleigh,Raleigh,POINT (-78.638179  35.77959),,True,False
+2017,49787,True,06095,historical_account,06095,06095,City of Benicia,Benicia,POINT (-122.1585777  38.049365);POINT (-122.1585777 38.049365),,True,True
+2017,50399,False,06029,historical_account,06029,06029,City of Bakersfield,Bakersfield,POINT (-119.018712 35.373292),,True,False
+2017,50541,True,37081,historical_account,37081,37081,City of Greensboro,Greensboro,POINT (-79.791975  36.072635);POINT (-79.791975 36.072635),,True,True
+2017,50549,False,48439,historical_account,48439,48439,City of Fort Worth,Fort Worth,POINT (-97.3308  32.7555);POINT (-97.3308 32.7555),,True,False
+2017,50550,False,36029,historical_account,36029,36029,City of Buffalo,Buffalo,POINT (-78.8784 42.8864),,True,False
+2017,50551,True,06037,historical_account,06037,06037,City of Long Beach,Long Beach,POINT (-118.1937  33.7701);POINT (-118.1937 33.7701),,True,True
+2017,50560,True,06001,historical_account,06001,06001,City of Oakland,Oakland,POINT (-122.2708  37.8044);POINT (-122.2708 37.8044),,True,True
+2017,50566,True,02020,historical_account,02020,02020,City of Anchorage,Anchorage,POINT (-149.9003  61.2181);POINT (-149.9003 61.2181),outside_contiguous_US,False,False
+2017,50572,False,27123,historical_account,27123,27123,"City of Saint Paul, MN","Saint Paul, MN",POINT (-93.089958  44.953703);POINT (-93.089958 44.953703),,True,False
+2017,52894,True,37067,historical_account,37067,37067,City of Winston-Salem,Winston-Salem,POINT (-80.2442  36.0999);POINT (-80.2442 36.0999),,True,True
+2017,52897,True,08097,historical_account,08097,08097,City of Aspen and Pitkin County,Aspen and Pitkin County,POINT (-106.837  39.195);POINT (-106.837 39.195),,True,True
+2017,53921,False,04013,historical_account,04013,04013,"City of Tempe, AZ","Tempe, AZ",POINT (-111.940005  33.42551),,True,False
+2017,54046,True,48061,historical_account,48061,48061,City of Brownsville,Brownsville,POINT (-97.4975  25.9017);POINT (-97.4975 25.9017),,True,True
+2017,54048,True,47093,historical_account,47093,47093,City of Knoxville,Knoxville,POINT (-83.9207  35.9606);POINT (-83.9207 35.9606),,True,True
+2017,54057,True,42071,historical_account,42071,42071,City of Lancaster,Lancaster,POINT (-76.3055  40.0379);POINT (-76.3055 40.0379),,True,True
+2017,54070,True,41039,historical_account,41039,41039,City of Eugene,Eugene,POINT (-123.0867  44.0519);POINT (-123.0867 44.0519),,True,True
+2017,54075,True,08059,historical_account,08059,08059,City of Lakewood,Lakewood,POINT (-105.0814  39.7047);POINT (-105.0814 39.7047),,True,True
+2017,54078,True,06001,historical_account,06001,06001,City of Hayward,Hayward,POINT (-122.0808  37.6689);POINT (-122.0808 37.6689),,True,True
+2017,54082,True,12011,historical_account,12011,12011,City of Hollywood,Hollywood,POINT (-80.1495  26.0112);POINT (-80.1495 26.0112),,True,True
+2017,54085,True,13051,historical_account,13051,13051,City of Savannah,Savannah,POINT (-81.0998  32.0835);POINT (-81.0998 32.0835),,True,True
+2017,54092,True,26161,historical_account,26161,26161,City of Ann Arbor,Ann Arbor,POINT (-83.743  42.2808);POINT (-83.743 42.2808),,True,True
+2017,54100,True,29019,historical_account,29019,29019,"City of Columbia, MO","Columbia, MO",POINT (-92.334072  38.951705);POINT (-92.334072 38.951705),,True,True
+2017,54102,True,36001,historical_account,36001,36001,City of Albany,Albany,POINT (-73.7562  42.6526);POINT (-73.7562 42.6526),,True,True
+2017,54104,True,08013,historical_account,08013,08013,City of Boulder,Boulder,POINT (-105.2519  40.0274);POINT (-105.2519 40.0274),,True,True
+2017,54108,True,37063,historical_account,37063,37063,City of Durham,Durham,POINT (-78.8986  35.994);POINT (-78.8986 35.994),,True,True
+2017,54110,True,06037,historical_account,06037,06037,City of Santa Monica,Santa Monica,POINT (-118.4814  34.0219);POINT (-118.4814 34.0219),,True,True
+2017,54111,True,19103,historical_account,19103,19103,City of Iowa City,Iowa,POINT (-91.5302  41.6611);POINT (-91.5302 41.6611),,True,True
+2017,54113,True,04005,historical_account,04005,04005,City of Flagstaff,Flagstaff,POINT (-111.6311  35.1992);POINT (-111.6311 35.1992),,True,True
+2017,54114,True,37021,historical_account,37021,37021,City of Asheville,Asheville,POINT (-82.5515  35.5951);POINT (-82.5515 35.5951),,True,True
+2017,54119,True,06085,historical_account,06085,06085,City of Palo Alto,Palo Alto,POINT (-122.143  37.4419);POINT (-122.143 37.4419),,True,True
+2017,54128,True,32031,historical_account,32031,32031,City of Reno,Reno,POINT (-119.8138  39.5296);POINT (-119.8138 39.5296),,True,True
+2017,55415,True,45079,historical_account,45079,45079,"City of Columbia, SC","Columbia, SC",POINT (-81.0348  34.0007);POINT (-81.0348 34.0007),,True,True
+2017,55418,True,06059,historical_account,06059,06059,City of Huntington Beach,Huntington Beach,POINT (-117.9992  33.6603);POINT (-117.9992 33.6603),,True,True
+2017,55419,True,12011,historical_account,12011,12011,City of Miramar,Miramar,POINT (-80.30356  25.986076);POINT (-80.30356 25.986076),,True,True
+2017,55616,True,06085,historical_account,06085,06085,Los Altos Hills,Los Altos Hills,POINT (-122.1375  37.3797);POINT (-122.1375 37.3797),,True,True
+2017,55799,True,51131,historical_account,51131,51131,"City of Arlington, VA","Arlington, VA",POINT (-76.002594  37.226486);POINT (-76.002594 37.226486),known_Arlington_VA_point_in_Northampton,False,False
+2017,55800,True,27059,historical_account,27059,27059,City of Cambridge,Cambridge,POINT (-93.327333  45.601);POINT (-93.327333 45.601),,True,True
+2017,55801,True,12099,historical_account,12099,12099,City of West Palm Beach,West Palm Beach,POINT (-80.053375  26.715342);POINT (-80.053375 26.715342),,True,True
+2017,57616,False,17097,historical_account,17097,17097,"City of Lake Forest, IL","Lake Forest, IL",POINT (-87.840625  42.258634);POINT (-87.840625 42.258634),,True,False
+2017,58310,False,51770,historical_account,51770,51770,City of Roanoke,Roanoke,POINT (-79.9414  37.271),,True,False
+2017,58357,True,06037,historical_account,06037,06037,City of West Hollywood,West Hollywood,POINT (-118.3617  34.09);POINT (-118.3617 34.09),,True,True
+2017,58485,True,42091,historical_account,42091,42091,Abington Township,Abington,POINT (-75.119511  40.12408);POINT (-75.119511 40.12408),,True,True
+2017,58511,True,06013,historical_account,06013,06013,"City of Richmond, CA","Richmond, CA",POINT (-122.3477  37.9358);POINT (-122.3477 37.9358),,True,True
+2017,58513,True,41029,historical_account,41029,41029,City of Medford,Medford,POINT (-122.8756  42.3265);POINT (-122.8756 42.3265),,True,True
+2017,58530,True,25015,historical_account,25015,25015,"City of Northampton, MA","Northampton, MA",POINT (-72.614446  42.304845);POINT (-72.614446 42.304845),,True,True
+2017,58531,True,25017,historical_account,25017,25017,"City of Somerville, MA","Somerville, MA",POINT (-71.082647  42.393449);POINT (-71.082647 42.393449),,True,True
+2017,58590,True,42095,historical_account,42095,42095,"City of Easton, PA","Easton, PA",POINT (-75.2207  40.6884);POINT (-75.2207 40.6884),,True,True
+2017,58621,True,51121,historical_account,51121,51121,Town of Blacksburg,Blacksburg,POINT (-80.4139  37.2296);POINT (-80.4139 37.2296),,True,True
+2017,58627,True,17119,historical_account,17119,17119,"City of Alton, IL","Alton, IL",POINT (-90.184276  38.890604);POINT (-90.184276 38.890604),,True,True
+2017,58636,True,53073,historical_account,53073,53073,"City of Bellingham, WA","Bellingham, WA",POINT (-122.4787  48.7519);POINT (-122.4787 48.7519),,True,True
+2017,58668,True,25005,historical_account,25005,25005,"City of New Bedford, MA","New Bedford, MA",POINT (-70.9342  41.6362);POINT (-70.9342 41.6362),,True,True
+2017,58867,False,55141,historical_account,55141,55141,City of Wisconsin Rapids,Wisconsin Rapids,POINT (-89.839  44.3603);POINT (-89.839 44.3603),,True,False
+2017,58871,True,41047,TIGER2019_point,25009;41047,41047,"City of Salem, MA","Salem;Salem, MA",POINT ( );POINT (-123.040283  44.944099),historical_multiple_counties;organization_state_vs_assigned_county;organization_state_vs_coordinate,False,False
+2017,59124,True,28001,historical_account,28001,28001,"City of Natchez, MS","Natchez, MS",POINT (-91.403171  31.560444);POINT (-91.403171 31.560444),,True,True
+2017,59535,True,08037,historical_account,08037,08037,"Town of Vail, CO","Vail, CO",POINT (-106.3742  39.6403);POINT (-106.3742 39.6403),,True,True
+2017,59537,False,48121,historical_account,48121,48121,"City of Denton, TX","Denton, TX",POINT (-97.133068 33.214841),,True,False
+2017,59540,True,17031,historical_account,17031,17031,"City of Elgin, IL","Elgin, IL",POINT (-88.26297  42.060386);POINT (-88.26297 42.060386),,True,True
+2017,59545,True,51540,historical_account,51540,51540,"City of Charlottesville, VA","Charlottesville, VA",POINT (-78.4767  38.0293);POINT (-78.4767 38.0293),,True,True
+2017,59552,False,06113,historical_account,06113,06113,"City of Davis, CA","Davis, CA",POINT (-121.740517  38.544907);POINT (-121.740517 38.544907),,True,False
+2017,59563,False,24031,historical_account,24031,24031,"City of Takoma Park, MD","Takoma Park, MD",POINT (-77.0075 38.9779),,True,False
+2017,59588,True,37135,historical_account,37135,37135,"Town of Chapel Hill, NC","Chapel Hill, NC",POINT (-79.0558  35.9132);POINT (-79.0558 35.9132),,True,True
+2017,59595,True,06081,historical_account,06081,06081,"City of Brisbane, CA","Brisbane, CA",POINT (-122.4  37.6808);POINT (-122.4 37.6808),,True,True
+2017,59631,True,06001,historical_account,06001,06001,"City of San Leandro, CA","San Leandro, CA",POINT (-122.156077  37.72493);POINT (-122.156077 37.72493),,True,True
+2017,59633,True,06087,historical_account,06087,06087,"City of Santa Cruz, CA","Santa Cruz, CA",POINT (-122.030796  36.974117);POINT (-122.030796 36.974117),,True,True
+2017,59697,False,12099,historical_account,12099,12099,"City of Lake Worth, FL","Lake Worth, FL",POINT (-80.0684  26.6168),,True,False
+2017,59705,False,09001,TIGER2019_point,,09001,"Town of Westport, CT","Westport, CT",POINT (-73.3579  41.1415),,True,False
+2017,60656,False,06001,historical_account,06001,06001,"City of Piedmont, CA","Piedmont, CA",POINT (-122.2316 37.8244),,True,False
+2017,61790,True,06001,historical_account,06001,06001,"City of Emeryville, CA","Emeryville, CA",POINT (-122.285247  37.831316);POINT (-122.285247 37.831316),,True,True
+2017,6192,False,19101,historical_account,19101,19101,"City of Fairfield, IA","Fairfield, IA",POINT (-91.963691 41.007611),,True,False
+2017,62864,True,42071,historical_account,42071,42071,"City of Lancaster, PA","Lancaster, PA",POINT (-76.305514  40.037875);POINT (-76.305514 40.037875),,True,True
+2017,63999,True,12086,historical_account,12086,,"City of Miami Beach, FL","Miami Beach, FL",POINT (  _);POINT ( _),coordinate_outside_TIGER_counties,False,False
+2017,64014,True,06085,historical_account,06085,06085,City of Cupertino,Cupertino,POINT (-122.032182  37.322998);POINT (-122.032182 37.322998),,True,True
+2017,73293,False,29111,historical_account,29111,29111,"City of LaGrange, MO","LaGrange, MO",POINT (-91.497654 40.042824),,True,False
+2017,73295,True,55063,historical_account,55063,55063,"City of La Crosse, WI","La Crosse, WI",POINT (-91.2396  43.8014);POINT (-91.2396 43.8014),,True,True
+2018,10495,True,32003,historical_account,32003,32003,City of Las Vegas,Las Vegas,POINT (-115.14 36.1699),,True,True
+2018,1093,True,13121,historical_account,13121,13121,City of Atlanta,Atlanta,POINT (-84.388 33.749),,True,True
+2018,1184,True,48453,historical_account,48453,48453,City of Austin,Austin,POINT (-97.7431 30.2672),,True,True
+2018,14344,True,49043,historical_account,49043,49043,"City of Park City, UT",Park City,POINT (-111.498 40.6461),,True,True
+2018,14874,True,41051,historical_account,41051,41051,"City of Portland, OR","Portland, OR",POINT (-122.682 45.52),,True,True
+2018,16581,True,53033,historical_account,53033,53033,City of Seattle,Seattle,POINT (-122.332 47.6062),,True,True
+2018,31090,True,11001,historical_account,11001,11001,District of Columbia,"Washington, DC",POINT (-77.0369 38.9072),,True,True
+2018,31108,True,48201,historical_account,48201,48201,City of Houston,Houston,POINT (-95.3694 29.7602),,True,True
+2018,31177,True,49035,historical_account,49035,49035,Salt Lake City,Salt Lake City,POINT (-111.891 40.7608),,True,True
+2018,31181,True,42101,historical_account,42101,42101,City of Philadelphia,Philadelphia,POINT (-75.1638 39.9523),,True,True
+2018,31182,True,06075,historical_account,06075,06075,City of San Francisco,San Francisco,POINT (-122.419 37.7749),,True,True
+2018,3203,False,17031,historical_account,17031,17031,City of Chicago,Chicago,POINT (-87.6298 41.8781),,True,False
+2018,32550,True,08031,historical_account,08031,08031,City of Denver,Denver,POINT (-104.985 39.7376),,True,True
+2018,3417,True,36061,historical_account,36061,36061,New York City,New York City,POINT (-74.0059 40.7128),,True,True
+2018,35268,True,25025,historical_account,25025,25025,City of Boston,Boston,POINT (-71.0598 42.3584),,True,True
+2018,35274,False,23005,historical_account,23005,23005,"City of Portland, ME","Portland, ME",POINT (-70.2553 43.6615),,True,False
+2018,35393,True,29510,historical_account,29510,29510,City of St Louis,St Louis,POINT (-90.1994 38.627),,True,True
+2018,35853,True,24510,historical_account,24510,24510,City of Baltimore,Baltimore,POINT (-76.6122 39.2904),,True,True
+2018,35857,True,39061,historical_account,39061,39061,City of Cincinnati,Cincinnati,POINT (-84.512 39.1031),,True,True
+2018,35859,True,39035,historical_account,39035,39035,City of Cleveland,Cleveland,POINT (-81.6944 41.4993),,True,True
+2018,35874,True,04013,historical_account,04013,04013,City of Phoenix,Phoenix,POINT (-112.074 33.4484),,True,True
+2018,35878,False,06067,historical_account,06067,06067,City of Sacramento,Sacramento,POINT (-121.494 38.5816),,True,False
+2018,35879,True,27053,historical_account,27053,27053,City of Minneapolis,Minneapolis,POINT (-93.2667 44.9833),,True,True
+2018,35883,True,06085,historical_account,06085,06085,City of San José,"San José, CA",POINT (-121.886 37.3382),,True,True
+2018,36410,True,47157,historical_account,47157,47157,City of Memphis,Memphis,POINT (-90.049 35.1495),,True,True
+2018,43905,True,48029,historical_account,48029,48029,City of San Antonio,San Antonio,POINT (-98.4936 29.4241),,True,True
+2018,43907,True,18097,historical_account,18097,18097,City of Indianapolis,Indianapolis,POINT (-86.1785 39.7676),,True,True
+2018,43910,True,39049,historical_account,39049,39049,City of Columbus,Columbus,POINT (-82.9988 39.9612),,True,True
+2018,49327,True,44007,historical_account,44007,44007,City of Providence,Providence,POINT (-71.4128 41.824),,True,True
+2018,49333,False,21111,historical_account,21111,21111,"City of Louisville, KY",Louisville,POINT (-85.6784 38.196),,True,False
+2018,49334,True,51760,historical_account,51760,51760,"City of Richmond, VA","Richmond, VA",POINT (-77.436 37.5407),,True,True
+2018,49335,False,47037,historical_account,47037,47037,Metropolitan Government of Nashville and Davidson County,Nashville,POINT (-86.7816 36.1627),,True,False
+2018,49339,True,,unmatched,,,City and County of Honolulu,Honolulu,POINT (157.59 21.28),coordinate_outside_TIGER_counties;unmatched,False,False
+2018,49342,True,36055,historical_account,36055,36055,City of Rochester,Rochester,POINT (-77.6109 43.161),,True,True
+2018,49787,True,06095,historical_account,06095,06095,City of Benicia,Benicia,POINT (-122.159 38.0494),,True,True
+2018,50544,False,,unmatched,,,"City of Aurora, IL",Aurora,POINT (41.7606 88.3201),coordinate_outside_TIGER_counties;unmatched,False,False
+2018,50550,True,36029,historical_account,36029,36029,City of Buffalo,"Buffalo, NY",POINT (-78.8784 42.8864),,True,True
+2018,50551,False,06037,historical_account,06037,06037,City of Long Beach,Long Beach,POINT (-118.194 33.7701),,True,False
+2018,50553,True,06019,historical_account,06019,06019,City of Fresno,Fresno,POINT (-119.773 36.7468),,True,True
+2018,50557,True,,unmatched,,,City of Norfolk,Norfolk,POINT (38.8468 -76.2851),coordinate_outside_TIGER_counties;unmatched,False,False
+2018,50560,True,06001,historical_account,06001,06001,City of Oakland,Oakland,POINT (-122.271 37.8044),,True,True
+2018,50562,True,06073,historical_account,06073,06073,City of Chula Vista,Chula Vista,POINT (-117.084 32.64),,True,True
+2018,50566,True,02020,historical_account,02020,02020,City of Anchorage,Anchorage,POINT (-149.9 61.2181),outside_contiguous_US,False,False
+2018,52894,False,37067,historical_account,37067,37067,City of Winston-Salem,Winston-Salem,POINT (-80.2442 36.0999),,True,False
+2018,53959,True,05143,historical_account,05143,05143,"City of Fayetteville, AR",Fayetteville,POINT (-94.1719 36.0821),,True,True
+2018,54026,True,53053,historical_account,53053,53053,City of Tacoma,Tacoma,POINT (-122.444 47.2529),,True,True
+2018,54048,False,47093,historical_account,47093,47093,City of Knoxville,Knoxville,POINT (-83.9207 35.9606),,True,False
+2018,54066,False,08069,historical_account,08069,08069,City of Fort Collins,Fort Collins,POINT (-105.084 40.5853),,True,False
+2018,54070,True,41039,historical_account,41039,41039,City of Eugene,Eugene,POINT (-123.087 44.0519),,True,True
+2018,54075,True,08059,historical_account,08059,08059,City of Lakewood,Lakewood,POINT (-105.081 39.7047),,True,True
+2018,54078,True,06001,historical_account,06001,06001,City of Hayward,Hayward,POINT (-122.081 37.6689),,True,True
+2018,54100,True,29019,historical_account,29019,29019,"City of Columbia, MO","Columbia, MO",POINT (-92.3341 38.9517),,True,True
+2018,54104,False,08013,historical_account,08013,08013,City of Boulder,Boulder,POINT (-105.252 40.0274),,True,False
+2018,54108,True,37063,historical_account,37063,37063,City of Durham,"Durham, NC",POINT (-78.8986 35.994),,True,True
+2018,54109,True,18105,historical_account,18105,18105,City of Bloomington,Bloomington,POINT (-86.5264 39.1653),,True,True
+2018,54110,True,06037,historical_account,06037,06037,City of Santa Monica,Santa Monica,POINT (-118.481 34.0219),,True,True
+2018,54111,True,19103,historical_account,19103,19103,City of Iowa City,Iowa City,POINT (-91.5302 41.6611),,True,True
+2018,54113,False,04005,historical_account,04005,04005,City of Flagstaff,Flagstaff,POINT (-111.631 35.1992),,True,False
+2018,54114,True,37021,historical_account,37021,37021,City of Asheville,Asheville,POINT (-82.5515 35.5951),,True,True
+2018,54116,True,17085,historical_account,17085,17085,City of Dubuque,Dubuque,POINT (-90.5071 42.5006),,True,True
+2018,54119,True,06085,historical_account,06085,06085,City of Palo Alto,Palo Alto,POINT (-122.143 37.4419),,True,True
+2018,54124,True,06001,historical_account,06001,06001,City of Fremont,Fremont,POINT (-121.989 37.5483),,True,True
+2018,54128,False,32031,historical_account,32031,32031,City of Reno,Reno,POINT (-119.814 39.5296),,True,False
+2018,55418,False,06059,historical_account,06059,06059,City of Huntington Beach,Huntington Beach,POINT (-117.999 33.6603),,True,False
+2018,55419,False,12011,historical_account,12011,12011,City of Miramar,Miramar,POINT (-80.3036 25.9861),,True,False
+2018,55799,True,51131,historical_account,51131,51131,"Arlington, VA",Arlington,POINT (-76.0026 37.2265),known_Arlington_VA_point_in_Northampton,False,False
+2018,55801,True,12099,historical_account,12099,12099,City of West Palm Beach,West Palm Beach,POINT (-80.0534 26.7153),,True,True
+2018,58357,True,06037,historical_account,06037,06037,City of West Hollywood,West Hollywood,POINT (-118.362 34.09),,True,True
+2018,58485,False,42091,historical_account,42091,42091,Abington Township,Abington,POINT (-75.1195 40.1241),,True,False
+2018,58513,True,41029,historical_account,41029,41029,City of Medford,Medford,POINT (-122.876 42.3265),,True,True
+2018,58530,True,25015,historical_account,25015,25015,"City of Northampton, MA",Northampton,POINT (-72.6144 42.3048),,True,True
+2018,58531,True,25017,historical_account,25017,25017,"City of Somerville, MA",Somerville,POINT (-71.0826 42.3934),,True,True
+2018,58590,True,42095,historical_account,42095,42095,"City of Easton, PA",Easton,POINT (-75.2207 40.6884),,True,True
+2018,58636,False,53073,historical_account,53073,53073,"City of Bellingham, WA",Bellingham,POINT (-122.479 48.7519),,True,False
+2018,58668,False,25005,historical_account,25005,25005,"City of New Bedford, MA",New Bedford,POINT (-70.9342 41.6362),,True,False
+2018,59535,True,08037,historical_account,08037,08037,"Town of Vail, CO",Vail,POINT (-106.374 39.6403),,True,True
+2018,59545,True,51540,historical_account,51540,51540,"City of Charlottesville, VA",Charlottesville,POINT (-78.4767 38.0293),,True,True
+2018,59595,True,06081,historical_account,06081,06081,"City of Brisbane, CA","Brisbane, CA",POINT (-122.4 37.6808),,True,True
+2018,59631,True,06001,historical_account,06001,06001,"City of San Leandro, CA",San Leandro,POINT (-122.156 37.7249),,True,True
+2018,59633,False,06087,historical_account,06087,06087,"City of Santa Cruz, CA","Santa Cruz, CA",POINT (-122.031 36.9741),,True,False
+2018,59642,True,06001,historical_account,06001,06001,"City of Dublin, CA","Dublin, CA",POINT (-121.93 37.7),,True,True
+2018,59644,True,06037,historical_account,06037,06037,"City of Culver City, CA",Culver City,POINT (-118.4 34.02),,True,True
+2018,59653,False,06037,historical_account,06037,06037,"City of Manhattan Beach, CA",Manhattan Beach,POINT (-118.405 33.8889),,True,False
+2018,59678,False,17031,historical_account,17031,17031,"City of Evanston, IL",Evanston,POINT (-87.6898 42.0669),,True,False
+2018,60656,True,06001,historical_account,06001,06001,"City of Piedmont, CA",Piedmont,POINT (-122.232 37.8244),,True,True
+2018,60679,True,12086,historical_account,12086,12086,"Town of Surfside, FL",Surfside,POINT (-80.1233 25.8789),,True,True
+2018,61790,True,06001,historical_account,06001,06001,"City of Emeryville, CA",Emeryville,POINT (-122.285 37.8313),,True,True
+2018,62864,False,42071,historical_account,42071,42071,"City of Lancaster, PA","Lancaster, PA",POINT (-76.3055 40.0379),,True,False
+2018,63941,False,,unmatched,,,"Broward County, FL",Broward,POINT (80.3659 26.1901),coordinate_outside_TIGER_counties;unmatched,False,False
+2018,64014,False,06085,historical_account,06085,06085,City of Cupertino,Cupertino,POINT (-122.032 37.323),,True,False
+2018,73295,True,55063,historical_account,55063,55063,"City of La Crosse, WI",La Crosse,POINT (-91.2396 43.8014),,True,True
+2018,73301,False,22051,historical_account,22051,22051,"City of Gretna, LA",Gretna,POINT (-90.0542 29.9164),,True,False
+2018,73530,False,25017,historical_account,25017,25017,"Town of Lexington, MA","Lexington, MA",POINT (-71.2269 42.4443),,True,False
+2018,73706,True,,unmatched,,,City of Alameda,Alameda,POINT (122.163 37.4522),coordinate_outside_TIGER_counties;unmatched,False,False
+2018,74401,True,06073,historical_account,06073,06073,"City of Encinitas, CA",Encinitas,POINT (-117.293 33.0454),,True,True
+2018,74414,False,08013,historical_account,08013,08013,Boulder County,Boulder County,POINT (-105.5 40.15),,True,False
+2018,74418,True,,unmatched,,,"Town of Breckenridge, CO",Breckenridge,POINT (106.038 39.4817),coordinate_outside_TIGER_counties;unmatched,False,False
+2018,74423,False,,unmatched,,,"City of Key West, FL",Key West,POINT (24.5551 81.78),coordinate_outside_TIGER_counties;unmatched,False,False
+2018,74504,False,27003,historical_account,27003,27003,"City of Ramsey, MN",Ramsey,POINT (-93.45 45.2611),,True,False
+2018,74531,True,35049,historical_account,35049,35049,Santa Fe County,Santa Fe County,POINT (-106 35.5),,True,True
+2018,74560,True,49019,historical_account,49019,49019,"City of Moab, UT",Moab,POINT (-109.54 38.57),,True,True
+2018,74569,True,,unmatched,,,"King County, WA",King County,POINT (121.984 47.548),coordinate_outside_TIGER_counties;unmatched,False,False
+2018,74573,False,53033,historical_account,53033,53033,"Snoqualmie, WA",Snoqualmie,POINT (-121.844 47.53),,True,False
+2018,74594,True,12099,historical_account,12099,12099,City of Boynton Beach,Boynton Beach,POINT (-80.216 26.4986),,True,True
+2019,10495,True,32003,historical_account,32003,32003,City of Las Vegas,Las Vegas,POINT (-115.14 36.1699),,True,True
+2019,10894,True,06037,historical_account,06037,06037,City of Los Angeles,Los Angeles,POINT (-118.244 34.0522),,True,True
+2019,1093,False,13121,historical_account,13121,13121,City of Atlanta,Atlanta,POINT (-84.388 33.749),,True,False
+2019,1184,True,48453,historical_account,48453,48453,City of Austin,Austin,POINT (-97.7431 30.2672),,True,True
+2019,13067,True,22071,historical_account,22071,22071,City of New Orleans,New Orleans,POINT (-90.0715 29.9511),,True,True
+2019,14344,True,49043,historical_account,49043,49043,"City of Park City, UT",Park City,POINT (-111.498 40.6461),,True,True
+2019,14874,True,41051,historical_account,41051,41051,"City of Portland, OR","Portland, OR",POINT (-122.682 45.52),,True,True
+2019,16581,True,53033,historical_account,53033,53033,City of Seattle,Seattle,POINT (-122.332 47.6062),,True,True
+2019,2430,True,50007,historical_account,50007,50007,City of Burlington,Burlington,POINT (-73.2121 44.4759),,True,True
+2019,31090,True,11001,historical_account,11001,11001,District of Columbia,"Washington, DC",POINT (-77.0369 38.9072),,True,True
+2019,31108,True,48201,historical_account,48201,48201,City of Houston,Houston,POINT (-95.3694 29.7602),,True,True
+2019,31177,True,49035,historical_account,49035,49035,Salt Lake City,Salt Lake City,POINT (-111.891 40.7608),,True,True
+2019,31181,True,42101,historical_account,42101,42101,City of Philadelphia,Philadelphia,POINT (-75.1638 39.9523),,True,True
+2019,31182,True,06075,historical_account,06075,06075,City of San Francisco,San Francisco,POINT (-122.419 37.7749),,True,True
+2019,3203,False,17031,historical_account,17031,17031,City of Chicago,Chicago,POINT (-87.6298 41.8781),,True,False
+2019,32550,True,08031,historical_account,08031,08031,City of Denver,Denver,POINT (-104.985 39.7376),,True,True
+2019,3417,True,36061,historical_account,36061,36061,New York City,New York City,POINT (-74.0059 40.7128),,True,True
+2019,35268,True,25025,historical_account,25025,25025,City of Boston,Boston,POINT (-71.0598 42.3584),,True,True
+2019,35274,True,23005,historical_account,23005,23005,"City of Portland, ME","Portland, ME",POINT (-70.2553 43.6615),,True,True
+2019,35393,True,29510,historical_account,29510,29510,City of St Louis,St Louis,POINT (-90.1994 38.627),,True,True
+2019,35853,True,24510,historical_account,24510,24510,City of Baltimore,Baltimore,POINT (-76.6122 39.2904),,True,True
+2019,35857,True,39061,historical_account,39061,39061,City of Cincinnati,Cincinnati,POINT (-84.512 39.1031),,True,True
+2019,35859,True,39035,historical_account,39035,39035,City of Cleveland,Cleveland,POINT (-81.6944 41.4993),,True,True
+2019,35860,True,48113,historical_account,48113,48113,City of Dallas,Dallas,POINT (-96.8004 32.7801),,True,True
+2019,35862,False,26163,historical_account,26163,26163,City of Detroit,Detroit,POINT (-83.0457 42.3314),,True,False
+2019,35870,True,12086,historical_account,12086,12086,City of Miami,Miami,POINT (-80.1918 25.7617),,True,True
+2019,35874,True,04013,historical_account,04013,04013,City of Phoenix,Phoenix,POINT (-112.074 33.4484),,True,True
+2019,35878,True,06067,historical_account,06067,06067,City of Sacramento,Sacramento,POINT (-121.494 38.5816),,True,True
+2019,35879,True,27053,historical_account,27053,27053,City of Minneapolis,Minneapolis,POINT (-93.2667 44.9833),,True,True
+2019,35883,True,06085,historical_account,06085,06085,City of San José,"San José, CA",POINT (-121.886 37.3382),,True,True
+2019,36410,True,47157,historical_account,47157,47157,City of Memphis,Memphis,POINT (-90.049 35.1495),,True,True
+2019,37241,True,,unmatched,,,City of Berkeley,Berkeley,,unmatched,False,False
+2019,43905,True,48029,historical_account,48029,48029,City of San Antonio,San Antonio,POINT (-98.4936 29.4241),,True,True
+2019,43907,True,18097,historical_account,18097,18097,City of Indianapolis,Indianapolis,POINT (-86.1785 39.7676),,True,True
+2019,43910,True,39049,historical_account,39049,39049,City of Columbus,Columbus,POINT (-82.9988 39.9612),,True,True
+2019,43914,False,37119,historical_account,37119,37119,City of Charlotte,Charlotte,POINT (-80.8431 35.2271),,True,False
+2019,49172,False,,unmatched,,,City of St. Petersburg,St. Petersburg,,unmatched,False,False
+2019,49327,True,44007,historical_account,44007,44007,City of Providence,Providence,POINT (-71.4128 41.824),,True,True
+2019,49333,True,21111,historical_account,21111,21111,"City of Louisville, KY",Louisville,POINT (-85.6784 38.196),,True,True
+2019,49334,True,51760,historical_account,51760,51760,"City of Richmond, VA","Richmond, VA",POINT (-77.436 37.5407),,True,True
+2019,49335,True,47037,historical_account,47037,47037,Metropolitan Government of Nashville and Davidson County,Nashville,POINT (-86.7816 36.1627),,True,True
+2019,49339,True,,unmatched,,,City and County of Honolulu,Honolulu,POINT (157.59 21.28),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,49342,True,36055,historical_account,36055,36055,City of Rochester,Rochester,POINT (-77.6109 43.161),,True,True
+2019,49347,False,,unmatched,,,City of Omaha,Omaha,,unmatched,False,False
+2019,49787,False,06095,historical_account,06095,06095,City of Benicia,Benicia,POINT (-122.159 38.0494),,True,False
+2019,50401,True,55025,historical_account,55025,55025,City of Madison,Madison,POINT (-89.3818 43.0728),,True,True
+2019,50541,False,37081,historical_account,37081,37081,City of Greensboro,Greensboro,POINT (-79.792 36.0726),,True,False
+2019,50544,True,,unmatched,,,"City of Aurora, IL",Aurora,POINT (41.7606 88.3201),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,50550,False,36029,historical_account,36029,36029,City of Buffalo,"Buffalo, NY",POINT (-78.8784 42.8864),,True,False
+2019,50551,False,06037,historical_account,06037,06037,City of Long Beach,Long Beach,POINT (-118.194 33.7701),,True,False
+2019,50557,False,,unmatched,,,City of Norfolk,Norfolk,POINT (38.8468 -76.2851),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,50560,True,06001,historical_account,06001,06001,City of Oakland,Oakland,POINT (-122.271 37.8044),,True,True
+2019,50562,False,06073,historical_account,06073,06073,City of Chula Vista,Chula Vista,POINT (-117.084 32.64),,True,False
+2019,50565,False,39095,historical_account,39095,39095,City of Toledo,Toledo,POINT (-83.5552 41.6639),,True,False
+2019,50566,True,02020,historical_account,02020,02020,City of Anchorage,Anchorage,POINT (-149.9 61.2181),outside_contiguous_US,False,False
+2019,52894,True,37067,historical_account,37067,37067,City of Winston-Salem,Winston-Salem,POINT (-80.2442 36.0999),,True,True
+2019,52897,True,08097,historical_account,08097,08097,City of Aspen,Aspen,POINT (-106.837 39.195),,True,True
+2019,53860,True,,unmatched,,,"City of Wilmington, NC",Wilmington,,unmatched,False,False
+2019,53959,True,05143,historical_account,05143,05143,"City of Fayetteville, AR",Fayetteville,POINT (-94.1719 36.0821),,True,True
+2019,54026,True,53053,historical_account,53053,53053,City of Tacoma,Tacoma,POINT (-122.444 47.2529),,True,True
+2019,54048,False,47093,historical_account,47093,47093,City of Knoxville,Knoxville,POINT (-83.9207 35.9606),,True,False
+2019,54070,True,41039,historical_account,41039,41039,City of Eugene,Eugene,POINT (-123.087 44.0519),,True,True
+2019,54075,True,08059,historical_account,08059,08059,City of Lakewood,Lakewood,POINT (-105.081 39.7047),,True,True
+2019,54078,True,06001,historical_account,06001,06001,City of Hayward,Hayward,POINT (-122.081 37.6689),,True,True
+2019,54082,True,12011,historical_account,12011,12011,"City of Hollywood, FL",Hollywood,POINT (-80.1495 26.0112),,True,True
+2019,54085,False,13051,historical_account,13051,13051,City of Savannah,Savannah,POINT (-81.0998 32.0835),,True,False
+2019,54092,True,26161,historical_account,26161,26161,City of Ann Arbor,Ann Arbor,POINT (-83.743 42.2808),,True,True
+2019,54100,False,29019,historical_account,29019,29019,"City of Columbia, MO","Columbia, MO",POINT (-92.3341 38.9517),,True,False
+2019,54104,True,08013,historical_account,08013,08013,City of Boulder,Boulder,POINT (-105.252 40.0274),,True,True
+2019,54108,True,37063,historical_account,37063,37063,City of Durham,"Durham, NC",POINT (-78.8986 35.994),,True,True
+2019,54109,True,18105,historical_account,18105,18105,City of Bloomington,Bloomington,POINT (-86.5264 39.1653),,True,True
+2019,54110,True,06037,historical_account,06037,06037,City of Santa Monica,Santa Monica,POINT (-118.481 34.0219),,True,True
+2019,54111,False,19103,historical_account,19103,19103,City of Iowa City,Iowa City,POINT (-91.5302 41.6611),,True,False
+2019,54113,True,04005,historical_account,04005,04005,City of Flagstaff,Flagstaff,POINT (-111.631 35.1992),,True,True
+2019,54114,True,37021,historical_account,37021,37021,City of Asheville,Asheville,POINT (-82.5515 35.5951),,True,True
+2019,54116,False,17085,historical_account,17085,17085,City of Dubuque,Dubuque,POINT (-90.5071 42.5006),,True,False
+2019,54119,True,06085,historical_account,06085,06085,City of Palo Alto,Palo Alto,POINT (-122.143 37.4419),,True,True
+2019,54124,True,06001,historical_account,06001,06001,City of Fremont,Fremont,POINT (-121.989 37.5483),,True,True
+2019,55419,False,12011,historical_account,12011,12011,City of Miramar,Miramar,POINT (-80.3036 25.9861),,True,False
+2019,55799,True,51131,historical_account,51131,51131,"Arlington, VA",Arlington,POINT (-76.0026 37.2265),known_Arlington_VA_point_in_Northampton,False,False
+2019,55800,False,27059,historical_account,27059,27059,City of Cambridge,"Cambridge, MA",POINT (-93.3273 45.601),,True,False
+2019,55801,True,12099,historical_account,12099,12099,City of West Palm Beach,West Palm Beach,POINT (-80.0534 26.7153),,True,True
+2019,57616,True,17097,historical_account,17097,17097,"City of Lake Forest, IL",Lake Forest,POINT (-87.8406 42.2586),,True,True
+2019,58357,True,06037,historical_account,06037,06037,City of West Hollywood,West Hollywood,POINT (-118.362 34.09),,True,True
+2019,58413,True,18057,historical_account,18057,18057,"City of Carmel, IN",Carmel,POINT (-86.118 39.9784),,True,True
+2019,58485,True,42091,historical_account,42091,42091,Abington Township,Abington,POINT (-75.1195 40.1241),,True,True
+2019,58511,False,06013,historical_account,06013,06013,"City of Richmond, CA","Richmond, CA",POINT (-122.348 37.9358),,True,False
+2019,58513,True,41029,historical_account,41029,41029,City of Medford,Medford,POINT (-122.876 42.3265),,True,True
+2019,58530,True,25015,historical_account,25015,25015,"City of Northampton, MA",Northampton,POINT (-72.6144 42.3048),,True,True
+2019,58531,True,25017,historical_account,25017,25017,"City of Somerville, MA",Somerville,POINT (-71.0826 42.3934),,True,True
+2019,58590,False,42095,historical_account,42095,42095,"City of Easton, PA",Easton,POINT (-75.2207 40.6884),,True,False
+2019,58591,False,,unmatched,,,"City of Greenbelt, MD",,,unmatched,False,False
+2019,58621,False,51121,historical_account,51121,51121,Town of Blacksburg,Blacksburg,POINT (-80.4139 37.2296),,True,False
+2019,58626,True,,unmatched,,,"City of Racine, WI",,,unmatched,False,False
+2019,58668,True,25005,historical_account,25005,25005,"City of New Bedford, MA",New Bedford,POINT (-70.9342 41.6362),,True,True
+2019,58871,False,25009,TIGER2019_point,25009;41047,25009,"City of Salem, MA",Salem,POINT (-70.8967 42.5195),historical_multiple_counties,False,False
+2019,59531,False,,unmatched,,,"City of Santa Barbara, CA",,,unmatched,False,False
+2019,59535,True,08037,historical_account,08037,08037,"Town of Vail, CO",Vail,POINT (-106.374 39.6403),,True,True
+2019,59537,False,48121,historical_account,48121,48121,"City of Denton, TX",Denton,POINT (-97.1331 33.2148),,True,False
+2019,59545,True,51540,historical_account,51540,51540,"City of Charlottesville, VA",Charlottesville,POINT (-78.4767 38.0293),,True,True
+2019,59563,True,24031,historical_account,24031,24031,"City of Takoma Park, MD",Takoma Park,POINT (-77.0075 38.9779),,True,True
+2019,59580,True,,unmatched,,,"Town of Dedham, MA",,,unmatched,False,False
+2019,59595,False,06081,historical_account,06081,06081,"City of Brisbane, CA","Brisbane, CA",POINT (-122.4 37.6808),,True,False
+2019,59631,True,06001,historical_account,06001,06001,"City of San Leandro, CA",San Leandro,POINT (-122.156 37.7249),,True,True
+2019,59633,True,06087,historical_account,06087,06087,"City of Santa Cruz, CA","Santa Cruz, CA",POINT (-122.031 36.9741),,True,True
+2019,59642,True,06001,historical_account,06001,06001,"City of Dublin, CA","Dublin, CA",POINT (-121.93 37.7),,True,True
+2019,59644,True,06037,historical_account,06037,06037,"City of Culver City, CA",Culver City,POINT (-118.4 34.02),,True,True
+2019,59653,True,06037,historical_account,06037,06037,"City of Manhattan Beach, CA",Manhattan Beach,POINT (-118.405 33.8889),,True,True
+2019,59657,True,,unmatched,,,"City of Beaverton, OR",,,unmatched,False,False
+2019,59678,True,17031,historical_account,17031,17031,"City of Evanston, IL",Evanston,POINT (-87.6898 42.0669),,True,True
+2019,59681,True,,unmatched,,,"Town of East Hampton, NY",,,unmatched,False,False
+2019,59697,False,12099,historical_account,12099,12099,"City of Lake Worth, FL",Lake Worth,POINT (-80.0684 26.6168),,True,False
+2019,59707,True,,unmatched,,,"Town of Princeton, NJ",,,unmatched,False,False
+2019,60656,True,06001,historical_account,06001,06001,"City of Piedmont, CA",Piedmont,POINT (-122.232 37.8244),,True,True
+2019,61790,True,06001,historical_account,06001,06001,"City of Emeryville, CA",Emeryville,POINT (-122.285 37.8313),,True,True
+2019,62817,False,,unmatched,,,"City of Ithaca, NY",,,unmatched,False,False
+2019,62864,False,42071,historical_account,42071,42071,"City of Lancaster, PA","Lancaster, PA",POINT (-76.3055 40.0379),,True,False
+2019,63562,True,,unmatched,,,"City of South Bend, IN",South Bend,POINT (41.6754 -86.2532),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,63862,False,,unmatched,,,"City of Ashland, OR",,,unmatched,False,False
+2019,63919,False,36091,historical_account,36091,36091,"City of Saratoga Springs, NY",Saratoga Springs,POINT (-73.8167 43.0333),,True,False
+2019,63941,True,,unmatched,,,"Broward County, FL",Broward,POINT (80.3659 26.1901),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,64014,True,06085,historical_account,06085,06085,City of Cupertino,Cupertino,POINT (-122.032 37.323),,True,True
+2019,73295,True,55063,historical_account,55063,55063,"City of La Crosse, WI",La Crosse,POINT (-91.2396 43.8014),,True,True
+2019,73301,True,22051,historical_account,22051,22051,"City of Gretna, LA",Gretna,POINT (-90.0542 29.9164),,True,True
+2019,73365,False,,unmatched,,,Town of Ithaca,,,unmatched,False,False
+2019,73530,True,25017,historical_account,25017,25017,"Town of Lexington, MA","Lexington, MA",POINT (-71.2269 42.4443),,True,True
+2019,73666,True,,unmatched,,,Cuyahoga County,,,unmatched,False,False
+2019,73706,False,,unmatched,,,City of Alameda,Alameda,POINT (122.163 37.4522),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,74401,False,06073,historical_account,06073,06073,"City of Encinitas, CA",Encinitas,POINT (-117.293 33.0454),,True,False
+2019,74414,True,08013,historical_account,08013,08013,Boulder County,Boulder County,POINT (-105.5 40.15),,True,True
+2019,74418,False,,unmatched,,,"Town of Breckenridge, CO",Breckenridge,POINT (106.038 39.4817),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,74423,True,,unmatched,,,"City of Key West, FL",Key West,POINT (24.5551 81.78),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,74427,False,,unmatched,,,City of Sarasota,Sarasota,POINT (27.3364 82.5307),coordinate_outside_TIGER_counties;unmatched,False,False
+2019,74428,False,12086,historical_account,12086,12086,"City of South Miami, FL",South Miami,POINT (-80.1918 25.7617),,True,False
+2019,74453,True,,unmatched,,,"City of Highland Park, IL",,,unmatched,False,False
+2019,74488,False,,unmatched,,,"City of Beverly, MA",,,unmatched,False,False
+2019,74508,True,27169,historical_account,27169,27169,"City of Winona, MN",Winona,POINT (-91.6663 44.0554),,True,True
+2019,74531,True,35049,historical_account,35049,35049,Santa Fe County,Santa Fe County,POINT (-106 35.5),,True,True
+2019,74534,True,,unmatched,,,"Erie County, NY",,,unmatched,False,False
+2019,74558,True,,unmatched,,,"Summit County, UT",,,unmatched,False,False
+2019,74560,True,49019,historical_account,49019,49019,"City of Moab, UT",Moab,POINT (-109.54 38.57),,True,True
+2019,74563,False,,unmatched,,,"Town of Guilford, VT",,,unmatched,False,False
+2019,74573,True,53033,historical_account,53033,53033,"Snoqualmie, WA",Snoqualmie,POINT (-121.844 47.53),,True,True
+2019,74594,False,12099,historical_account,12099,12099,City of Boynton Beach,Boynton Beach,POINT (-80.216 26.4986),,True,False
+2019,832610,True,,unmatched,,,"Orange County, NC",,,unmatched,False,False
+2019,834083,False,,unmatched,,,"City of Eau Claire, WI",,,unmatched,False,False
+2019,834370,False,,unmatched,,,"Town of Secaucus, NJ",,,unmatched,False,False
+2020,10495,True,32003,historical_account,32003,32003,City of Las Vegas,Las Vegas,POINT (-115.14 36.1699),,True,True
+2020,10894,True,06037,historical_account,06037,06037,City of Los Angeles,Los Angeles,POINT (-118.244 34.0522),,True,True
+2020,1184,True,48453,historical_account,48453,48453,City of Austin,Austin,POINT (-97.7431 30.2672),,True,True
+2020,13067,True,22071,historical_account,22071,22071,City of New Orleans,New Orleans,POINT (-90.0715 29.9511),,True,True
+2020,14344,True,49043,historical_account,49043,49043,"City of Park City, UT",Park City,POINT (-111.498 40.6461),,True,True
+2020,14874,True,41051,historical_account,41051,41051,"City of Portland, OR","Portland, OR",POINT (-122.682 45.52),,True,True
+2020,16581,True,53033,historical_account,53033,53033,City of Seattle,Seattle,POINT (-122.332 47.6062),,True,True
+2020,2430,True,50007,historical_account,50007,50007,City of Burlington,Burlington,POINT (-73.2121 44.4759),,True,True
+2020,31090,True,11001,historical_account,11001,11001,District of Columbia,"Washington, DC",POINT (-77.0369 38.9072),,True,True
+2020,31108,True,48201,historical_account,48201,48201,City of Houston,Houston,POINT (-95.3694 29.7602),,True,True
+2020,31177,True,49035,historical_account,49035,49035,Salt Lake City,Salt Lake City,POINT (-111.891 40.7608),,True,True
+2020,31181,True,42101,historical_account,42101,42101,City of Philadelphia,Philadelphia,POINT (-75.1638 39.9523),,True,True
+2020,31182,True,06075,historical_account,06075,06075,City of San Francisco,San Francisco,POINT (-122.419 37.7749),,True,True
+2020,3203,False,17031,historical_account,17031,17031,City of Chicago,Chicago,POINT (-87.6298 41.8781),,True,False
+2020,32550,True,08031,historical_account,08031,08031,City of Denver,Denver,POINT (-104.985 39.7376),,True,True
+2020,3417,True,36061,historical_account,36061,36061,New York City,New York City,POINT (-74.0059 40.7128),,True,True
+2020,35268,True,25025,historical_account,25025,25025,City of Boston,Boston,POINT (-71.0598 42.3584),,True,True
+2020,35274,True,23005,historical_account,23005,23005,"City of Portland, ME",Portland,POINT (-70.2553 43.6615),,True,True
+2020,35393,True,29510,historical_account,29510,29510,City of St Louis,St Louis,POINT (-90.1994 38.627),,True,True
+2020,35853,True,24510,historical_account,24510,24510,City of Baltimore,Baltimore,POINT (-76.6122 39.2904),,True,True
+2020,35857,True,39061,historical_account,39061,39061,City of Cincinnati,Cincinnati,POINT (-84.512 39.1031),,True,True
+2020,35859,True,39035,historical_account,39035,39035,City of Cleveland,Cleveland,POINT (-81.6944 41.4993),,True,True
+2020,35860,True,48113,historical_account,48113,48113,City of Dallas,Dallas,POINT (-96.8004 32.7801),,True,True
+2020,35862,False,26163,historical_account,26163,26163,City of Detroit,Detroit,POINT (-83.0457 42.3314),,True,False
+2020,35870,True,12086,historical_account,12086,12086,City of Miami,Miami,POINT (-80.1918 25.7617),,True,True
+2020,35874,True,04013,historical_account,04013,04013,City of Phoenix,Phoenix,POINT (-112.074 33.4484),,True,True
+2020,35877,True,42003,historical_account,42003,42003,City of Pittsburgh,Pittsburgh,POINT (-79.9959 40.4406),,True,True
+2020,35878,True,06067,historical_account,06067,06067,City of Sacramento,Sacramento,POINT (-121.494 38.5816),,True,True
+2020,35879,True,27053,historical_account,27053,27053,City of Minneapolis,Minneapolis,POINT (-93.2667 44.9833),,True,True
+2020,35883,True,06085,historical_account,06085,06085,City of San José,"San José, CA",POINT (-121.886 37.3382),,True,True
+2020,35884,False,06073,historical_account,06073,06073,City of San Diego,San Diego,POINT (-117.17 32.7181),,True,False
+2020,36410,True,47157,historical_account,47157,47157,City of Memphis,Memphis,POINT (-90.049 35.1495),,True,True
+2020,37241,True,,unmatched,,,City of Berkeley,Berkeley,,unmatched,False,False
+2020,43905,True,48029,historical_account,48029,48029,City of San Antonio,San Antonio,POINT (-98.4936 29.4241),,True,True
+2020,43907,True,18097,historical_account,18097,18097,City of Indianapolis,Indianapolis,POINT (-86.1785 39.7676),,True,True
+2020,43908,True,55079,historical_account,55079,55079,City of Milwaukee,Milwaukee,POINT (-87.9065 43.0389),,True,True
+2020,43909,False,12095,historical_account,12095,12095,City of Orlando,Orlando,POINT (-81.3792 28.5383),,True,False
+2020,43910,True,39049,historical_account,39049,39049,City of Columbus,Columbus,POINT (-82.9988 39.9612),,True,True
+2020,43914,True,37119,historical_account,37119,37119,City of Charlotte,Charlotte,POINT (-80.8431 35.2271),,True,True
+2020,49172,False,,unmatched,,,City of St. Petersburg,St. Petersburg,,unmatched,False,False
+2020,49327,True,44007,historical_account,44007,44007,City of Providence,Providence,POINT (-71.4128 41.824),,True,True
+2020,49333,True,21111,historical_account,21111,21111,"City of Louisville, KY",Louisville,POINT (-85.6784 38.196),,True,True
+2020,49334,True,51760,historical_account,51760,51760,"City of Richmond, VA","Richmond, VA",POINT (-77.436 37.5407),,True,True
+2020,49335,True,47037,historical_account,47037,47037,Metropolitan Government of Nashville and Davidson County,Nashville,POINT (-86.7816 36.1627),,True,True
+2020,49339,True,,unmatched,,,City and County of Honolulu,Honolulu,POINT (157.59 21.28),coordinate_outside_TIGER_counties;unmatched,False,False
+2020,49342,True,36055,historical_account,36055,36055,City of Rochester,Rochester,POINT (-77.6109 43.161),,True,True
+2020,49345,False,,unmatched,,,City of Birmingham,"Birmingham, AL",,unmatched,False,False
+2020,49347,True,,unmatched,,,City of Omaha,Omaha,,unmatched,False,False
+2020,50540,True,,unmatched,,,City of Albuquerque,,,unmatched,False,False
+2020,50541,False,37081,historical_account,37081,37081,City of Greensboro,Greensboro,POINT (-79.792 36.0726),,True,False
+2020,50544,True,,unmatched,,,"City of Aurora, IL",Aurora,POINT (41.7606 88.3201),coordinate_outside_TIGER_counties;unmatched,False,False
+2020,50545,True,,unmatched,,,City of Henderson,Henderson,,unmatched,False,False
+2020,50549,False,48439,historical_account,48439,48439,City of Fort Worth,Fort Worth,POINT (-97.3308 32.7555),,True,False
+2020,50550,True,36029,historical_account,36029,36029,City of Buffalo,"Buffalo, NY",POINT (-78.8784 42.8864),,True,True
+2020,50551,False,06037,historical_account,06037,06037,City of Long Beach,Long Beach,POINT (-118.194 33.7701),,True,False
+2020,50560,True,06001,historical_account,06001,06001,City of Oakland,Oakland,POINT (-122.271 37.8044),,True,True
+2020,50565,False,39095,historical_account,39095,39095,City of Toledo,Toledo,POINT (-83.5552 41.6639),,True,False
+2020,50566,True,02020,historical_account,02020,02020,City of Anchorage,Anchorage,POINT (-149.9 61.2181),outside_contiguous_US,False,False
+2020,50572,True,27123,historical_account,27123,27123,"City of Saint Paul, MN",Saint Paul,POINT (-93.09 44.9537),,True,True
+2020,52894,True,37067,historical_account,37067,37067,City of Winston-Salem,Winston-Salem,POINT (-80.2442 36.0999),,True,True
+2020,52897,True,08097,historical_account,08097,08097,City of Aspen,Aspen,POINT (-106.837 39.195),,True,True
+2020,53860,True,,unmatched,,,"City of Wilmington, NC",Wilmington,,unmatched,False,False
+2020,53921,True,04013,historical_account,04013,04013,"City of Tempe, AZ",Tempe,POINT (-111.94 33.4255),,True,True
+2020,53959,True,05143,historical_account,05143,05143,"City of Fayetteville, AR",Fayetteville,POINT (-94.1719 36.0821),,True,True
+2020,54026,True,53053,historical_account,53053,53053,City of Tacoma,Tacoma,POINT (-122.444 47.2529),,True,True
+2020,54034,False,,unmatched,,,City of Grand Rapids,Grand Rapids,,unmatched,False,False
+2020,54037,True,,unmatched,,,City of Des Moines,Des Moines,,unmatched,False,False
+2020,54048,False,47093,historical_account,47093,47093,City of Knoxville,Knoxville,POINT (-83.9207 35.9606),,True,False
+2020,54070,True,41039,historical_account,41039,41039,City of Eugene,Eugene,POINT (-123.087 44.0519),,True,True
+2020,54075,True,08059,historical_account,08059,08059,City of Lakewood,Lakewood,POINT (-105.081 39.7047),,True,True
+2020,54078,True,06001,historical_account,06001,06001,City of Hayward,Hayward,POINT (-122.081 37.6689),,True,True
+2020,54082,True,12011,historical_account,12011,12011,"City of Hollywood, FL",Hollywood,POINT (-80.1495 26.0112),,True,True
+2020,54085,False,13051,historical_account,13051,13051,City of Savannah,Savannah,POINT (-81.0998 32.0835),,True,False
+2020,54092,True,26161,historical_account,26161,26161,City of Ann Arbor,Ann Arbor,POINT (-83.743 42.2808),,True,True
+2020,54100,True,29019,historical_account,29019,29019,"City of Columbia, MO","Columbia, MO",POINT (-92.3341 38.9517),,True,True
+2020,54104,True,08013,historical_account,08013,08013,City of Boulder,Boulder,POINT (-105.252 40.0274),,True,True
+2020,54108,True,37063,historical_account,37063,37063,City of Durham,"Durham, NC",POINT (-78.8986 35.994),,True,True
+2020,54109,True,18105,historical_account,18105,18105,City of Bloomington,Bloomington,POINT (-86.5264 39.1653),,True,True
+2020,54110,True,06037,historical_account,06037,06037,City of Santa Monica,Santa Monica,POINT (-118.481 34.0219),,True,True
+2020,54111,True,19103,historical_account,19103,19103,City of Iowa City,Iowa City,POINT (-91.5302 41.6611),,True,True
+2020,54113,True,04005,historical_account,04005,04005,City of Flagstaff,Flagstaff,POINT (-111.631 35.1992),,True,True
+2020,54114,True,37021,historical_account,37021,37021,City of Asheville,Asheville,POINT (-82.5515 35.5951),,True,True
+2020,54116,True,17085,historical_account,17085,17085,City of Dubuque,Dubuque,POINT (-90.5071 42.5006),,True,True
+2020,54119,True,06085,historical_account,06085,06085,City of Palo Alto,Palo Alto,POINT (-122.143 37.4419),,True,True
+2020,54124,True,06001,historical_account,06001,06001,City of Fremont,Fremont,POINT (-121.989 37.5483),,True,True
+2020,55419,False,12011,historical_account,12011,12011,City of Miramar,Miramar,POINT (-80.3036 25.9861),,True,False
+2020,55799,True,51131,historical_account,51131,51131,"Arlington, VA",Arlington,POINT (-76.0026 37.2265),known_Arlington_VA_point_in_Northampton,False,False
+2020,55800,True,27059,historical_account,27059,27059,City of Cambridge,"Cambridge, MA",POINT (-93.3273 45.601),,True,True
+2020,55801,True,12099,historical_account,12099,12099,City of West Palm Beach,West Palm Beach,POINT (-80.0534 26.7153),,True,True
+2020,57616,True,17097,historical_account,17097,17097,"City of Lake Forest, IL",Lake Forest,POINT (-87.8406 42.2586),,True,True
+2020,58357,True,06037,historical_account,06037,06037,City of West Hollywood,West Hollywood,POINT (-118.362 34.09),,True,True
+2020,58413,True,18057,historical_account,18057,18057,"City of Carmel, IN",Carmel,POINT (-86.118 39.9784),,True,True
+2020,58485,True,42091,historical_account,42091,42091,Abington Township,,POINT (-75.1195 40.1241),,True,True
+2020,58513,True,41029,historical_account,41029,41029,City of Medford,Medford,POINT (-122.876 42.3265),,True,True
+2020,58530,True,25015,historical_account,25015,25015,"City of Northampton, MA",Northampton,POINT (-72.6144 42.3048),,True,True
+2020,58531,True,25017,historical_account,25017,25017,"City of Somerville, MA",Somerville,POINT (-71.0826 42.3934),,True,True
+2020,58591,False,,unmatched,,,"City of Greenbelt, MD",,,unmatched,False,False
+2020,58621,True,51121,historical_account,51121,51121,Town of Blacksburg,Blacksburg,POINT (-80.4139 37.2296),,True,True
+2020,58626,True,,unmatched,,,"City of Racine, WI",,,unmatched,False,False
+2020,58627,False,17119,historical_account,17119,17119,"City of Alton, IL",Alton,POINT (-90.1843 38.8906),,True,False
+2020,58668,True,25005,historical_account,25005,25005,"City of New Bedford, MA",New Bedford,POINT (-70.9342 41.6362),,True,True
+2020,58871,False,25009,TIGER2019_point,25009;41047,25009,"City of Salem, MA",Salem,POINT (-70.8967 42.5195),historical_multiple_counties,False,False
+2020,59535,True,08037,historical_account,08037,08037,"Town of Vail, CO",Vail,POINT (-106.374 39.6403),,True,True
+2020,59537,True,48121,historical_account,48121,48121,"City of Denton, TX",Denton,POINT (-97.1331 33.2148),,True,True
+2020,59545,True,51540,historical_account,51540,51540,"City of Charlottesville, VA",Charlottesville,POINT (-78.4767 38.0293),,True,True
+2020,59550,False,,unmatched,,,"City of Bend, OR",,,unmatched,False,False
+2020,59558,True,,unmatched,,,"City of Holland, MI",,,unmatched,False,False
+2020,59562,False,,unmatched,,,"City of Urbana, IL",,,unmatched,False,False
+2020,59563,True,24031,historical_account,24031,24031,"City of Takoma Park, MD",Takoma Park,POINT (-77.0075 38.9779),,True,True
+2020,59631,True,06001,historical_account,06001,06001,"City of San Leandro, CA",San Leandro,POINT (-122.156 37.7249),,True,True
+2020,59633,True,06087,historical_account,06087,06087,"City of Santa Cruz, CA","Santa Cruz, CA",POINT (-122.031 36.9741),,True,True
+2020,59642,True,06001,historical_account,06001,06001,"City of Dublin, CA","Dublin, CA",POINT (-121.93 37.7),,True,True
+2020,59644,True,06037,historical_account,06037,06037,"City of Culver City, CA",Culver City,POINT (-118.4 34.02),,True,True
+2020,59653,True,06037,historical_account,06037,06037,"City of Manhattan Beach, CA",Manhattan Beach,POINT (-118.405 33.8889),,True,True
+2020,59657,True,,unmatched,,,"City of Beaverton, OR",,,unmatched,False,False
+2020,59678,True,17031,historical_account,17031,17031,"City of Evanston, IL",Evanston,POINT (-87.6898 42.0669),,True,True
+2020,59707,True,,unmatched,,,"Town of Princeton, NJ",,,unmatched,False,False
+2020,60656,True,06001,historical_account,06001,06001,"City of Piedmont, CA",Piedmont,POINT (-122.232 37.8244),,True,True
+2020,61790,True,06001,historical_account,06001,06001,"City of Emeryville, CA",Emeryville,POINT (-122.285 37.8313),,True,True
+2020,63562,True,,unmatched,,,"City of South Bend, IN",South Bend,POINT (41.6754 -86.2532),coordinate_outside_TIGER_counties;unmatched,False,False
+2020,63601,True,34013,historical_account,34013,34013,"Township of Maplewood, NJ",Maplewood,POINT (-74.27 40.73),,True,True
+2020,63762,True,,unmatched,,,Metropolitan Washington Council of Governments (COG),,,unmatched,False,False
+2020,63862,True,,unmatched,,,"City of Ashland, OR",,,unmatched,False,False
+2020,63919,False,36091,historical_account,36091,36091,"City of Saratoga Springs, NY",Saratoga Springs,POINT (-73.8167 43.0333),,True,False
+2020,63941,True,,unmatched,,,"Broward County, FL",Broward,POINT (80.3659 26.1901),coordinate_outside_TIGER_counties;unmatched,False,False
+2020,63999,True,12086,historical_account,12086,12086,"City of Miami Beach, FL",Miami Beach,POINT (-80.13 25.7906),,True,True
+2020,73295,True,55063,historical_account,55063,55063,"City of La Crosse, WI",La Crosse,POINT (-91.2396 43.8014),,True,True
+2020,73301,True,22051,historical_account,22051,22051,"City of Gretna, LA",Gretna,POINT (-90.0542 29.9164),,True,True
+2020,73530,True,25017,historical_account,25017,25017,"Town of Lexington, MA","Lexington, MA",POINT (-71.2269 42.4443),,True,True
+2020,73666,True,,unmatched,,,Cuyahoga County,,,unmatched,False,False
+2020,73669,True,,unmatched,,,San Luis Obispo,,,unmatched,False,False
+2020,73706,True,,unmatched,,,City of Alameda,Alameda,POINT (122.163 37.4522),coordinate_outside_TIGER_counties;unmatched,False,False
+2020,74401,True,06073,historical_account,06073,06073,"City of Encinitas, CA",Encinitas,POINT (-117.293 33.0454),,True,True
+2020,74414,True,08013,historical_account,08013,08013,Boulder County,Boulder County,POINT (-105.5 40.15),,True,True
+2020,74418,True,,unmatched,,,"Town of Breckenridge, CO",Breckenridge,POINT (106.038 39.4817),coordinate_outside_TIGER_counties;unmatched,False,False
+2020,74423,True,,unmatched,,,"City of Key West, FL",Key West,POINT (24.5551 81.78),coordinate_outside_TIGER_counties;unmatched,False,False
+2020,74453,True,,unmatched,,,"City of Highland Park, IL",,,unmatched,False,False
+2020,74463,True,,unmatched,,,"Village of Park Forest, IL",,,unmatched,False,False
+2020,74488,False,,unmatched,,,"City of Beverly, MA",,,unmatched,False,False
+2020,74508,True,27169,historical_account,27169,27169,"City of Winona, MN",Winona,POINT (-91.6663 44.0554),,True,True
+2020,74531,True,35049,historical_account,35049,35049,Santa Fe County,Santa Fe County,POINT (-106 35.5),,True,True
+2020,74546,False,,unmatched,,,"City of Milwaukie, OR",,,unmatched,False,False
+2020,74558,True,,unmatched,,,"Summit County, UT",,,unmatched,False,False
+2020,74563,True,,unmatched,,,"Town of Guilford, VT",,,unmatched,False,False
+2020,74575,False,,unmatched,,,Dane County,,,unmatched,False,False
+2020,74594,True,12099,historical_account,12099,12099,City of Boynton Beach,Boynton Beach,POINT (-80.216 26.4986),,True,True
+2020,832610,True,,unmatched,,,"Orange County, NC",,,unmatched,False,False
+2020,832838,False,25001,historical_account,25001,25001,Town of Wellfleet,Wellfleet,POINT (-70.031 41.9305),,True,False
+2020,834083,True,,unmatched,,,"City of Eau Claire, WI",,,unmatched,False,False
+2020,834373,True,,unmatched,,,"Town of York, ME",,,unmatched,False,False
+2020,841964,True,12011,historical_account,12011,12011,"City of Hallandale Beach, FL",Hallandale Beach,POINT (-80.1484 25.9812),,True,True
+2020,848565,True,,unmatched,,,Chicago Metropolitan Mayors Caucus,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2020,848567,False,,unmatched,,,Mid-America Regional Council,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2020,848568,False,,unmatched,,,"Metropolitan Council, Twin Cities",,,possibly_multicounty_jurisdiction;unmatched,False,False
+2021,10495,True,32003,historical_account,32003,32003,"City of Las Vegas, NV",Las Vegas,POINT (-115.14 36.1699),,True,True
+2021,10894,True,06037,historical_account,06037,06037,"City of Los Angeles, CA",Los Angeles,POINT (-118.244 34.0522),,True,True
+2021,1093,True,13121,historical_account,13121,13121,"City of Atlanta, GA",Atlanta,POINT (-84.388 33.749),,True,True
+2021,1184,True,48453,historical_account,48453,48453,"City of Austin, TX",Austin,POINT (-97.7431 30.2672),,True,True
+2021,13067,True,22071,historical_account,22071,22071,"City of New Orleans, LA",New Orleans,POINT (-90.0715 29.9511),,True,True
+2021,14344,True,49043,historical_account,49043,49043,"City of Park City, UT",Park City,POINT (-111.498 40.6461),,True,True
+2021,14874,True,41051,historical_account,41051,41051,"City of Portland, OR","Portland, OR",POINT (-122.682 45.52),,True,True
+2021,16581,True,53033,historical_account,53033,53033,"City of Seattle, WA",Seattle,POINT (-122.332 47.6062),,True,True
+2021,2430,True,50007,historical_account,50007,50007,"City of Burlington, VT",Burlington,POINT (-73.2121 44.4759),,True,True
+2021,31090,True,11001,historical_account,11001,11001,"District of Columbia, DC","Washington, DC",POINT (-77.0369 38.9072),,True,True
+2021,31108,True,48201,historical_account,48201,48201,"City of Houston, TX",Houston,POINT (-95.3694 29.7602),,True,True
+2021,31177,True,49035,historical_account,49035,49035,"Salt Lake City, UT",Salt Lake City,POINT (-111.891 40.7608),,True,True
+2021,31181,True,42101,historical_account,42101,42101,"City of Philadelphia, PA",Philadelphia,POINT (-75.1638 39.9523),,True,True
+2021,31182,True,06075,historical_account,06075,06075,"City of San Francisco, CA",San Francisco,POINT (-122.419 37.7749),,True,True
+2021,3203,True,17031,historical_account,17031,17031,"City of Chicago, IL",Chicago,POINT (-87.6298 41.8781),,True,True
+2021,32550,True,08031,historical_account,08031,08031,"City of Denver, CO",Denver,POINT (-104.985 39.7376),,True,True
+2021,3417,True,36061,historical_account,36061,36061,"New York City, NY",New York City,POINT (-74.0059 40.7128),,True,True
+2021,35268,True,25025,historical_account,25025,25025,"City of Boston, MA",Boston,POINT (-71.0598 42.3584),,True,True
+2021,35274,True,23005,historical_account,23005,23005,"City of Portland, ME",Portland,POINT (-70.2553 43.6615),,True,True
+2021,35393,True,29510,historical_account,29510,29510,"City of St Louis, MO",St Louis,POINT (-90.1994 38.627),,True,True
+2021,35853,True,24510,historical_account,24510,24510,"City of Baltimore, MD",Baltimore,POINT (-76.6122 39.2904),,True,True
+2021,35857,True,39061,historical_account,39061,39061,"City of Cincinnati, OH",Cincinnati,POINT (-84.512 39.1031),,True,True
+2021,35859,True,39035,historical_account,39035,39035,"City of Cleveland, OH",Cleveland,POINT (-81.6944 41.4993),,True,True
+2021,35860,True,48113,historical_account,48113,48113,"City of Dallas, TX",Dallas,POINT (-96.8004 32.7801),,True,True
+2021,35862,True,26163,historical_account,26163,26163,"City of Detroit, MI",Detroit,POINT (-83.0457 42.3314),,True,True
+2021,35870,True,12086,historical_account,12086,12086,"City of Miami, FL",Miami,POINT (-80.1918 25.7617),,True,True
+2021,35874,True,04013,historical_account,04013,04013,"City of Phoenix, AZ",Phoenix,POINT (-112.074 33.4484),,True,True
+2021,35877,True,42003,historical_account,42003,42003,"City of Pittsburgh, PA",Pittsburgh,POINT (-79.9959 40.4406),,True,True
+2021,35878,True,06067,historical_account,06067,06067,"City of Sacramento, CA",Sacramento,POINT (-121.494 38.5816),,True,True
+2021,35879,True,27053,historical_account,27053,27053,"City of Minneapolis, MN",Minneapolis,POINT (-93.2667 44.9833),,True,True
+2021,35882,False,,unmatched,,,"City of Tampa, FL",Tampa,,unmatched,False,False
+2021,35883,True,06085,historical_account,06085,06085,"City of San José, CA","San José, CA",POINT (-121.886 37.3382),,True,True
+2021,35884,True,06073,historical_account,06073,06073,"City of San Diego, CA",San Diego,POINT (-117.17 32.7181),,True,True
+2021,36410,True,47157,historical_account,47157,47157,"City of Memphis, TN",Memphis,POINT (-90.049 35.1495),,True,True
+2021,37241,True,,unmatched,,,"City of Berkeley, CA",Berkeley,,unmatched,False,False
+2021,43905,True,48029,historical_account,48029,48029,"City of San Antonio, TX",San Antonio,POINT (-98.4936 29.4241),,True,True
+2021,43907,True,18097,historical_account,18097,18097,"City of Indianapolis, IN",Indianapolis,POINT (-86.1785 39.7676),,True,True
+2021,43908,True,55079,historical_account,55079,55079,"City of Milwaukee, WI",Milwaukee,POINT (-87.9065 43.0389),,True,True
+2021,43909,True,12095,historical_account,12095,12095,"City of Orlando, FL",Orlando,POINT (-81.3792 28.5383),,True,True
+2021,43910,True,39049,historical_account,39049,39049,"City of Columbus, OH",Columbus,POINT (-82.9988 39.9612),,True,True
+2021,43914,True,37119,historical_account,37119,37119,"City of Charlotte, NC",Charlotte,POINT (-80.8431 35.2271),,True,True
+2021,49172,True,,unmatched,,,"City of St. Petersburg, FL",St. Petersburg,,unmatched,False,False
+2021,49327,True,44007,historical_account,44007,44007,"City of Providence, RI",Providence,POINT (-71.4128 41.824),,True,True
+2021,49330,True,29047,historical_account,29047,29047,"Kansas City, MO",Kansas City,POINT (-94.573 39.1429),,True,True
+2021,49333,True,21111,historical_account,21111,21111,"City of Louisville, KY",Louisville,POINT (-85.6784 38.196),,True,True
+2021,49334,True,51760,historical_account,51760,51760,"City of Richmond, VA","Richmond, VA",POINT (-77.436 37.5407),,True,True
+2021,49335,True,47037,historical_account,47037,47037,"Metropolitan Government of Nashville and Davidson County, TN",Nashville,POINT (-86.7816 36.1627),,True,True
+2021,49339,True,,unmatched,,,"City and County of Honolulu, HI",Honolulu,POINT (157.59 21.28),coordinate_outside_TIGER_counties;unmatched,False,False
+2021,49342,True,36055,historical_account,36055,36055,"City of Rochester, NY",Rochester,POINT (-77.6109 43.161),,True,True
+2021,49345,True,,unmatched,,,"City of Birmingham, AL","Birmingham, AL",,unmatched,False,False
+2021,49346,True,,unmatched,,,"City of Allentown, PA",Allentown,,unmatched,False,False
+2021,49347,True,,unmatched,,,"City of Omaha, NE",Omaha,,unmatched,False,False
+2021,50401,True,55025,historical_account,55025,55025,"City of Madison, WI",Madison,POINT (-89.3818 43.0728),,True,True
+2021,50540,True,,unmatched,,,"City of Albuquerque, NM",,,unmatched,False,False
+2021,50541,False,37081,historical_account,37081,37081,"City of Greensboro, NC",Greensboro,POINT (-79.792 36.0726),,True,False
+2021,50544,True,,unmatched,,,"City of Aurora, IL",Aurora,POINT (41.7606 88.3201),coordinate_outside_TIGER_counties;unmatched,False,False
+2021,50545,True,,unmatched,,,"City of Henderson, NV",Henderson,,unmatched,False,False
+2021,50549,False,48439,historical_account,48439,48439,"City of Fort Worth, TX",Fort Worth,POINT (-97.3308 32.7555),,True,False
+2021,50550,True,36029,historical_account,36029,36029,"City of Buffalo, NY","Buffalo, NY",POINT (-78.8784 42.8864),,True,True
+2021,50551,True,06037,historical_account,06037,06037,"City of Long Beach, CA",Long Beach,POINT (-118.194 33.7701),,True,True
+2021,50554,True,,unmatched,,,"City of Mesa, AZ",Mesa,,unmatched,False,False
+2021,50560,True,06001,historical_account,06001,06001,"City of Oakland, CA",Oakland,POINT (-122.271 37.8044),,True,True
+2021,50562,True,06073,historical_account,06073,06073,"City of Chula Vista, CA",Chula Vista,POINT (-117.084 32.64),,True,True
+2021,50566,True,02020,historical_account,02020,02020,"City of Anchorage, AK",Anchorage,POINT (-149.9 61.2181),outside_contiguous_US,False,False
+2021,50572,True,27123,historical_account,27123,27123,"City of Saint Paul, MN",Saint Paul,POINT (-93.09 44.9537),,True,True
+2021,52894,True,37067,historical_account,37067,37067,"City of Winston-Salem, NC",Winston-Salem,POINT (-80.2442 36.0999),,True,True
+2021,52897,True,08097,historical_account,08097,08097,"City of Aspen, CO",Aspen,POINT (-106.837 39.195),,True,True
+2021,53860,True,,unmatched,,,"City of Wilmington, NC",Wilmington,,unmatched,False,False
+2021,53879,True,,unmatched,,,"City of Jersey City, NJ",Jersey City,,unmatched,False,False
+2021,53921,True,04013,historical_account,04013,04013,"City of Tempe, AZ",Tempe,POINT (-111.94 33.4255),,True,True
+2021,53959,True,05143,historical_account,05143,05143,"City of Fayetteville, AR",Fayetteville,POINT (-94.1719 36.0821),,True,True
+2021,54026,True,53053,historical_account,53053,53053,"City of Tacoma, WA",Tacoma,POINT (-122.444 47.2529),,True,True
+2021,54034,True,,unmatched,,,"City of Grand Rapids, MI",Grand Rapids,,unmatched,False,False
+2021,54037,True,,unmatched,,,"City of Des Moines, IA",Des Moines,,unmatched,False,False
+2021,54048,False,47093,historical_account,47093,47093,"City of Knoxville, TN",Knoxville,POINT (-83.9207 35.9606),,True,False
+2021,54066,True,08069,historical_account,08069,08069,"City of Fort Collins, CO",Fort Collins,POINT (-105.084 40.5853),,True,True
+2021,54070,True,41039,historical_account,41039,41039,"City of Eugene, OR",Eugene,POINT (-123.087 44.0519),,True,True
+2021,54075,True,08059,historical_account,08059,08059,"City of Lakewood, CO",Lakewood,POINT (-105.081 39.7047),,True,True
+2021,54078,True,06001,historical_account,06001,06001,"City of Hayward, CA",Hayward,POINT (-122.081 37.6689),,True,True
+2021,54082,True,12011,historical_account,12011,12011,"City of Hollywood, FL",Hollywood,POINT (-80.1495 26.0112),,True,True
+2021,54085,False,13051,historical_account,13051,13051,"City of Savannah, GA",Savannah,POINT (-81.0998 32.0835),,True,False
+2021,54092,True,26161,historical_account,26161,26161,"City of Ann Arbor, MI",Ann Arbor,POINT (-83.743 42.2808),,True,True
+2021,54100,True,29019,historical_account,29019,29019,"City of Columbia, MO","Columbia, MO",POINT (-92.3341 38.9517),,True,True
+2021,54104,True,08013,historical_account,08013,08013,"City of Boulder, CO",Boulder,POINT (-105.252 40.0274),,True,True
+2021,54105,False,,unmatched,,,"City of Duluth, MN",Duluth,,unmatched,False,False
+2021,54109,True,18105,historical_account,18105,18105,"City of Bloomington, IN",Bloomington,POINT (-86.5264 39.1653),,True,True
+2021,54110,True,06037,historical_account,06037,06037,"City of Santa Monica, CA",Santa Monica,POINT (-118.481 34.0219),,True,True
+2021,54111,True,19103,historical_account,19103,19103,"City of Iowa City, IA",Iowa City,POINT (-91.5302 41.6611),,True,True
+2021,54113,True,04005,historical_account,04005,04005,"City of Flagstaff, AZ",Flagstaff,POINT (-111.631 35.1992),,True,True
+2021,54114,True,37021,historical_account,37021,37021,"City of Asheville, NC",Asheville,POINT (-82.5515 35.5951),,True,True
+2021,54116,True,17085,historical_account,17085,17085,"City of Dubuque, IA",Dubuque,POINT (-90.5071 42.5006),organization_state_vs_assigned_county;organization_state_vs_coordinate,False,False
+2021,54119,True,06085,historical_account,06085,06085,"City of Palo Alto, CA",Palo Alto,POINT (-122.143 37.4419),,True,True
+2021,54124,True,06001,historical_account,06001,06001,"City of Fremont, CA",Fremont,POINT (-121.989 37.5483),,True,True
+2021,54125,True,,unmatched,,,"City of Boise, ID",Boise,,unmatched,False,False
+2021,54128,True,32031,historical_account,32031,32031,"City of Reno, NV",Reno,POINT (-119.814 39.5296),,True,True
+2021,55415,True,45079,historical_account,45079,45079,"City of Columbia, SC","Columbia, SC",POINT (-81.0348 34.0007),,True,True
+2021,55419,False,12011,historical_account,12011,12011,"City of Miramar, FL",Miramar,POINT (-80.3036 25.9861),,True,False
+2021,55799,True,51131,historical_account,51131,51131,"Arlington, VA",Arlington,POINT (-76.0026 37.2265),known_Arlington_VA_point_in_Northampton,False,False
+2021,55800,True,27059,historical_account,27059,27059,"City of Cambridge, MA","Cambridge, MA",POINT (-93.3273 45.601),organization_state_vs_assigned_county;organization_state_vs_coordinate,False,False
+2021,55801,True,12099,historical_account,12099,12099,"City of West Palm Beach, FL",West Palm Beach,POINT (-80.0534 26.7153),,True,True
+2021,57616,True,17097,historical_account,17097,17097,"City of Lake Forest, IL",Lake Forest,POINT (-87.8406 42.2586),,True,True
+2021,58357,True,06037,historical_account,06037,06037,"City of West Hollywood, CA",West Hollywood,POINT (-118.362 34.09),,True,True
+2021,58485,True,42091,historical_account,42091,42091,"Abington Township, PA",,POINT (-75.1195 40.1241),,True,True
+2021,58513,True,41029,historical_account,41029,41029,"City of Medford, MA",Medford,POINT (-122.876 42.3265),organization_state_vs_assigned_county;organization_state_vs_coordinate,False,False
+2021,58531,True,25017,historical_account,25017,25017,"City of Somerville, MA",Somerville,POINT (-71.0826 42.3934),,True,True
+2021,58590,True,42095,historical_account,42095,42095,"City of Easton, PA",Easton,POINT (-75.2207 40.6884),,True,True
+2021,58591,False,,unmatched,,,"City of Greenbelt, MD",,,unmatched,False,False
+2021,58621,True,51121,historical_account,51121,51121,"Town of Blacksburg, VA",Blacksburg,POINT (-80.4139 37.2296),,True,True
+2021,58626,True,,unmatched,,,"City of Racine, WI",,,unmatched,False,False
+2021,58627,False,17119,historical_account,17119,17119,"City of Alton, IL",Alton,POINT (-90.1843 38.8906),,True,False
+2021,58636,True,53073,historical_account,53073,53073,"City of Bellingham, WA",Bellingham,POINT (-122.479 48.7519),,True,True
+2021,58668,True,25005,historical_account,25005,25005,"City of New Bedford, MA",New Bedford,POINT (-70.9342 41.6362),,True,True
+2021,58871,False,25009,TIGER2019_point,25009;41047,25009,"City of Salem, MA",Salem,POINT (-70.8967 42.5195),historical_multiple_counties,False,False
+2021,59124,False,28001,historical_account,28001,28001,"City of Natchez, MS",Natchez,POINT (-91.4032 31.5604),,True,False
+2021,59532,True,,unmatched,,,"City of Hoboken, NJ",,,unmatched,False,False
+2021,59535,True,08037,historical_account,08037,08037,"Town of Vail, CO",Vail,POINT (-106.374 39.6403),,True,True
+2021,59537,True,48121,historical_account,48121,48121,"City of Denton, TX",Denton,POINT (-97.1331 33.2148),,True,True
+2021,59545,True,51540,historical_account,51540,51540,"City of Charlottesville, VA",Charlottesville,POINT (-78.4767 38.0293),,True,True
+2021,59550,False,,unmatched,,,"City of Bend, OR",,,unmatched,False,False
+2021,59563,True,24031,historical_account,24031,24031,"City of Takoma Park, MD",Takoma Park,POINT (-77.0075 38.9779),,True,True
+2021,59588,True,37135,historical_account,37135,37135,"Town of Chapel Hill, NC",Chapel Hill,POINT (-79.0558 35.9132),,True,True
+2021,59605,False,,unmatched,,,"City of Colton, CA",,,unmatched,False,False
+2021,59633,True,06087,historical_account,06087,06087,"City of Santa Cruz, CA","Santa Cruz, CA",POINT (-122.031 36.9741),,True,True
+2021,59644,True,06037,historical_account,06037,06037,"City of Culver City, CA",Culver City,POINT (-118.4 34.02),,True,True
+2021,59653,True,06037,historical_account,06037,06037,"City of Manhattan Beach, CA",Manhattan Beach,POINT (-118.405 33.8889),,True,True
+2021,59657,True,,unmatched,,,"City of Beaverton, OR",,,unmatched,False,False
+2021,59696,True,,unmatched,,,"City of Longmont, CO",,,unmatched,False,False
+2021,59707,True,,unmatched,,,"Town of Princeton, NJ",,,unmatched,False,False
+2021,59708,False,,unmatched,,,"City of Bethlehem, PA",,,unmatched,False,False
+2021,60656,True,06001,historical_account,06001,06001,"City of Piedmont, CA",Piedmont,POINT (-122.232 37.8244),,True,True
+2021,61790,True,06001,historical_account,06001,06001,"City of Emeryville, CA",Emeryville,POINT (-122.285 37.8313),,True,True
+2021,63562,True,,unmatched,,,"City of South Bend, IN",South Bend,POINT (41.6754 -86.2532),coordinate_outside_TIGER_counties;unmatched,False,False
+2021,63862,True,,unmatched,,,"City of Ashland, OR",,,unmatched,False,False
+2021,63941,True,,unmatched,,,"Broward County, FL",Broward,POINT (80.3659 26.1901),coordinate_outside_TIGER_counties;unmatched,False,False
+2021,63999,True,12086,historical_account,12086,12086,"City of Miami Beach, FL",Miami Beach,POINT (-80.13 25.7906),,True,True
+2021,64014,True,06085,historical_account,06085,06085,"City of Cupertino, CA",Cupertino,POINT (-122.032 37.323),,True,True
+2021,73295,True,55063,historical_account,55063,55063,"City of La Crosse, WI",La Crosse,POINT (-91.2396 43.8014),,True,True
+2021,73530,True,25017,historical_account,25017,25017,"Town of Lexington, MA","Lexington, MA",POINT (-71.2269 42.4443),,True,True
+2021,73666,True,,unmatched,,,"Cuyahoga County, OH",,,unmatched,False,False
+2021,73669,True,,unmatched,,,"San Luis Obispo, CA",,,unmatched,False,False
+2021,74401,True,06073,historical_account,06073,06073,"City of Encinitas, CA",Encinitas,POINT (-117.293 33.0454),,True,True
+2021,74414,True,08013,historical_account,08013,08013,"Boulder County, CO",Boulder County,POINT (-105.5 40.15),,True,True
+2021,74418,True,,unmatched,,,"Town of Breckenridge, CO",Breckenridge,POINT (106.038 39.4817),coordinate_outside_TIGER_counties;unmatched,False,False
+2021,74453,True,,unmatched,,,"City of Highland Park, IL",,,unmatched,False,False
+2021,74463,True,,unmatched,,,"Village of Park Forest, IL",,,unmatched,False,False
+2021,74481,False,,unmatched,,,"Town of Acton, MA",,,unmatched,False,False
+2021,74488,True,,unmatched,,,"City of Beverly, MA",,,unmatched,False,False
+2021,74508,True,27169,historical_account,27169,27169,"City of Winona, MN",Winona,POINT (-91.6663 44.0554),,True,True
+2021,74531,True,35049,historical_account,35049,35049,"Santa Fe County, NM",Santa Fe County,POINT (-106 35.5),,True,True
+2021,74539,False,,unmatched,,,"City of Oberlin, OH",,,unmatched,False,False
+2021,74547,False,,unmatched,,,"City of Mosier, OR",,,unmatched,False,False
+2021,74558,True,,unmatched,,,"Summit County, UT",,,unmatched,False,False
+2021,74560,True,49019,historical_account,49019,49019,"City of Moab, UT",Moab,POINT (-109.54 38.57),,True,True
+2021,74563,True,,unmatched,,,"Town of Guilford, VT",,,unmatched,False,False
+2021,74573,True,53033,historical_account,53033,53033,"Snoqualmie, WA",Snoqualmie,POINT (-121.844 47.53),,True,True
+2021,74575,True,,unmatched,,,"Dane County, WI",,,unmatched,False,False
+2021,74594,True,12099,historical_account,12099,12099,"City of Boynton Beach, FL",Boynton Beach,POINT (-80.216 26.4986),,True,True
+2021,832838,True,25001,historical_account,25001,25001,"Town of Wellfleet, MA",Wellfleet,POINT (-70.031 41.9305),,True,True
+2021,834083,True,,unmatched,,,"City of Eau Claire, WI",Eau Claire,,unmatched,False,False
+2021,834373,True,,unmatched,,,"Town of York, ME",,,unmatched,False,False
+2021,841964,True,12011,historical_account,12011,12011,"City of Hallandale Beach, FL",Hallandale Beach,POINT (-80.1484 25.9812),,True,True
+2021,841965,False,26065,TIGER2019_point,,26065,"City of Lansing, MI",Lansing,POINT (-84.5555 42.7325),,True,False
+2021,848567,True,,unmatched,,,Mid-America Regional Council,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2021,848568,False,,unmatched,,,"Metropolitan Council, Twin Cities",,,possibly_multicounty_jurisdiction;unmatched,False,False
+2021,852443,True,,unmatched,,,"Ferndale, MI",,,unmatched,False,False
+2021,862760,False,,unmatched,,,"City of Oxford, OH",,,unmatched,False,False
+2021,862924,False,,unmatched,,,"Leon Valley, TX",,,unmatched,False,False
+2021,863412,False,,unmatched,,,"City of Tumwater, WA",,,unmatched,False,False
+2022,10495,True,32003,historical_account,32003,32003,"City of Las Vegas, NV",Las Vegas,POINT (-115.14 36.1699),,True,True
+2022,10894,True,06037,historical_account,06037,06037,"City of Los Angeles, CA",Los Angeles,POINT (-118.244 34.0522),,True,True
+2022,1093,True,13121,historical_account,13121,13121,"City of Atlanta, GA",Atlanta,POINT (-84.388 33.749),,True,True
+2022,1184,True,48453,historical_account,48453,48453,"City of Austin, TX",Austin,POINT (-97.7431 30.2672),,True,True
+2022,13067,True,22071,historical_account,22071,22071,"City of New Orleans, LA",New Orleans,POINT (-90.0715 29.9511),,True,True
+2022,14344,True,49043,historical_account,49043,49043,"City of Park City, UT",Park City,POINT (-111.498 40.6461),,True,True
+2022,14874,True,41051,historical_account,41051,41051,"City of Portland, OR","Portland, OR",POINT (-122.682 45.52),,True,True
+2022,16581,True,53033,historical_account,53033,53033,"City of Seattle, WA",Seattle,POINT (-122.332 47.6062),,True,True
+2022,31090,True,11001,historical_account,11001,11001,"District of Columbia, DC","Washington, DC",POINT (-77.0369 38.9072),,True,True
+2022,31108,True,48201,historical_account,48201,48201,"City of Houston, TX",Houston,POINT (-95.3694 29.7602),,True,True
+2022,31177,True,49035,historical_account,49035,49035,"Salt Lake City, UT",Salt Lake City,POINT (-111.891 40.7608),,True,True
+2022,31181,True,42101,historical_account,42101,42101,"City of Philadelphia, PA",Philadelphia,POINT (-75.1638 39.9523),,True,True
+2022,31182,True,06075,historical_account,06075,06075,"City of San Francisco, CA",San Francisco,POINT (-122.419 37.7749),,True,True
+2022,3203,True,17031,historical_account,17031,17031,"City of Chicago, IL",Chicago,POINT (-87.6298 41.8781),,True,True
+2022,32550,True,08031,historical_account,08031,08031,"City of Denver, CO",Denver,POINT (-104.985 39.7376),,True,True
+2022,3417,True,36061,historical_account,36061,36061,"New York City, NY",New York City,POINT (-74.0059 40.7128),,True,True
+2022,35268,True,25025,historical_account,25025,25025,"City of Boston, MA",Boston,POINT (-71.0598 42.3584),,True,True
+2022,35274,True,23005,historical_account,23005,23005,"City of Portland, ME",Portland,POINT (-70.2553 43.6615),,True,True
+2022,35853,True,24510,historical_account,24510,24510,"City of Baltimore, MD",Baltimore,POINT (-76.6122 39.2904),,True,True
+2022,35857,True,39061,historical_account,39061,39061,"City of Cincinnati, OH",Cincinnati,POINT (-84.512 39.1031),,True,True
+2022,35859,True,39035,historical_account,39035,39035,"City of Cleveland, OH",Cleveland,POINT (-81.6944 41.4993),,True,True
+2022,35860,True,48113,historical_account,48113,48113,"City of Dallas, TX",Dallas,POINT (-96.8004 32.7801),,True,True
+2022,35870,True,12086,historical_account,12086,12086,"City of Miami, FL",Miami,POINT (-80.1918 25.7617),,True,True
+2022,35874,True,04013,historical_account,04013,04013,"City of Phoenix, AZ",Phoenix,POINT (-112.074 33.4484),,True,True
+2022,35877,True,42003,historical_account,42003,42003,"City of Pittsburgh, PA",Pittsburgh,POINT (-79.9959 40.4406),,True,True
+2022,35878,True,06067,historical_account,06067,06067,"City of Sacramento, CA",Sacramento,POINT (-121.494 38.5816),,True,True
+2022,35879,True,27053,historical_account,27053,27053,"City of Minneapolis, MN",Minneapolis,POINT (-93.2667 44.9833),,True,True
+2022,35883,True,06085,historical_account,06085,06085,"City of San José, CA","San José, CA",POINT (-121.886 37.3382),,True,True
+2022,35884,True,06073,historical_account,06073,06073,"City of San Diego, CA",San Diego,POINT (-117.163 32.7175),,True,True
+2022,36410,True,47157,historical_account,47157,47157,"City of Memphis, TN",Memphis,POINT (-90.049 35.1495),,True,True
+2022,37241,True,,unmatched,,,"City of Berkeley, CA",Berkeley,,unmatched,False,False
+2022,43905,True,48029,historical_account,48029,48029,"City of San Antonio, TX",San Antonio,POINT (-98.4936 29.4241),,True,True
+2022,43907,True,18097,historical_account,18097,18097,"City of Indianapolis, IN",Indianapolis,POINT (-86.1785 39.7676),,True,True
+2022,43908,True,55079,historical_account,55079,55079,"City of Milwaukee, WI",Milwaukee,POINT (-87.9065 43.0389),,True,True
+2022,43909,True,12095,historical_account,12095,12095,"City of Orlando, FL",Orlando,POINT (-81.3792 28.5383),,True,True
+2022,43910,True,39049,historical_account,39049,39049,"City of Columbus, OH",Columbus,POINT (-82.9988 39.9612),,True,True
+2022,43914,True,37119,historical_account,37119,37119,"City of Charlotte, NC",Charlotte,POINT (-80.8431 35.2271),,True,True
+2022,49172,True,,unmatched,,,"City of St. Petersburg, FL",St. Petersburg,,unmatched,False,False
+2022,49327,True,44007,historical_account,44007,44007,"City of Providence, RI",Providence,POINT (-71.4128 41.824),,True,True
+2022,49330,True,29047,historical_account,29047,29047,"Kansas City, MO",Kansas City,POINT (-94.573 39.1429),,True,True
+2022,49333,True,21111,historical_account,21111,21111,"City of Louisville, KY",Louisville,POINT (-85.6784 38.196),,True,True
+2022,49335,True,47037,historical_account,47037,47037,"Metropolitan Government of Nashville and Davidson County, TN",Nashville,POINT (-86.7816 36.1627),,True,True
+2022,49339,True,,unmatched,,,"City and County of Honolulu, HI",Honolulu,POINT (157.59 21.28),coordinate_outside_TIGER_counties;unmatched,False,False
+2022,49342,True,36055,historical_account,36055,36055,"City of Rochester, NY",Rochester,POINT (-77.6109 43.161),,True,True
+2022,49345,True,,unmatched,,,"City of Birmingham, AL","Birmingham, AL",,unmatched,False,False
+2022,49346,True,,unmatched,,,"City of Allentown, PA",Allentown,,unmatched,False,False
+2022,49347,True,,unmatched,,,"City of Omaha, NE",Omaha,,unmatched,False,False
+2022,50401,True,55025,historical_account,55025,55025,"City of Madison, WI",Madison,POINT (-89.3818 43.0728),,True,True
+2022,50540,True,,unmatched,,,"City of Albuquerque, NM",,,unmatched,False,False
+2022,50541,True,37081,historical_account,37081,37081,"City of Greensboro, NC",Greensboro,POINT (-79.792 36.0726),,True,True
+2022,50544,False,,unmatched,,,"City of Aurora, IL",Aurora,POINT (41.7606 88.3201),coordinate_outside_TIGER_counties;unmatched,False,False
+2022,50545,True,,unmatched,,,"City of Henderson, NV",Henderson,,unmatched,False,False
+2022,50549,False,48439,historical_account,48439,48439,"City of Fort Worth, TX",Fort Worth,POINT (-97.3308 32.7555),,True,False
+2022,50550,True,36029,historical_account,36029,36029,"City of Buffalo, NY","Buffalo, NY",POINT (-78.8784 42.8864),,True,True
+2022,50554,True,,unmatched,,,"City of Mesa, AZ",Mesa,,unmatched,False,False
+2022,50560,True,06001,historical_account,06001,06001,"City of Oakland, CA",Oakland,POINT (-122.271 37.8044),,True,True
+2022,50562,True,06073,historical_account,06073,06073,"City of Chula Vista, CA",Chula Vista,POINT (-117.084 32.64),,True,True
+2022,50569,False,,unmatched,,,"City of Stockton, CA",Stockton,,unmatched,False,False
+2022,50572,True,27123,historical_account,27123,27123,"City of Saint Paul, MN",Saint Paul,POINT (-93.09 44.9537),,True,True
+2022,50574,True,48085,TIGER2019_point,,48085,"City of Plano, TX",Plano,POINT (-96.6989 33.0198),,True,True
+2022,50577,True,,unmatched,,,"City of Wichita, KS",Wichita,,unmatched,False,False
+2022,52894,True,37067,historical_account,37067,37067,"City of Winston-Salem, NC",Winston-Salem,POINT (-80.2442 36.0999),,True,True
+2022,52896,True,,unmatched,,,"City of Fort Lauderdale, FL",Fort Lauderdale,,unmatched,False,False
+2022,52897,True,08097,historical_account,08097,08097,"City of Aspen, CO",Aspen,POINT (-106.837 39.195),,True,True
+2022,53860,True,,unmatched,,,"City of Wilmington, NC",Wilmington,,unmatched,False,False
+2022,53899,True,,unmatched,,,"City of Worcester, MA",Worcester,,unmatched,False,False
+2022,53921,True,04013,historical_account,04013,04013,"City of Tempe, AZ",Tempe,POINT (-111.94 33.4255),,True,True
+2022,53931,True,,unmatched,,,"City of Alexandria, VA",Alexandria,,unmatched,False,False
+2022,53959,True,05143,historical_account,05143,05143,"City of Fayetteville, AR",Fayetteville,POINT (-94.1719 36.0821),,True,True
+2022,54026,True,53053,historical_account,53053,53053,"City of Tacoma, WA",Tacoma,POINT (-122.444 47.2529),,True,True
+2022,54034,True,,unmatched,,,"City of Grand Rapids, MI",Grand Rapids,,unmatched,False,False
+2022,54037,True,,unmatched,,,"City of Des Moines, IA",Des Moines,,unmatched,False,False
+2022,54048,True,47093,historical_account,47093,47093,"City of Knoxville, TN",Knoxville,POINT (-83.9207 35.9606),,True,True
+2022,54066,True,08069,historical_account,08069,08069,"City of Fort Collins, CO",Fort Collins,POINT (-105.084 40.5853),,True,True
+2022,54075,True,08059,historical_account,08059,08059,"City of Lakewood, CO",Lakewood,POINT (-105.081 39.7047),,True,True
+2022,54078,True,06001,historical_account,06001,06001,"City of Hayward, CA",Hayward,POINT (-122.081 37.6689),,True,True
+2022,54085,False,13051,historical_account,13051,13051,"City of Savannah, GA",Savannah,POINT (-81.0998 32.0835),,True,False
+2022,54092,True,26161,historical_account,26161,26161,"City of Ann Arbor, MI",Ann Arbor,POINT (-83.743 42.2808),,True,True
+2022,54100,True,29019,historical_account,29019,29019,"City of Columbia, MO","Columbia, MO",POINT (-92.3341 38.9517),,True,True
+2022,54102,True,36001,historical_account,36001,36001,"City of Albany, NY",Albany,POINT (-73.7562 42.6526),,True,True
+2022,54104,True,08013,historical_account,08013,08013,"City of Boulder, CO",Boulder,POINT (-105.252 40.0274),,True,True
+2022,54105,True,,unmatched,,,"City of Duluth, MN",Duluth,,unmatched,False,False
+2022,54109,True,18105,historical_account,18105,18105,"City of Bloomington, IN",Bloomington,POINT (-86.5264 39.1653),,True,True
+2022,54110,True,06037,historical_account,06037,06037,"City of Santa Monica, CA",Santa Monica,POINT (-118.481 34.0219),,True,True
+2022,54111,True,19103,historical_account,19103,19103,"City of Iowa City, IA",Iowa City,POINT (-91.5302 41.6611),,True,True
+2022,54113,True,04005,historical_account,04005,04005,"City of Flagstaff, AZ",Flagstaff,POINT (-111.631 35.1992),,True,True
+2022,54114,True,37021,historical_account,37021,37021,"City of Asheville, NC",Asheville,POINT (-82.5515 35.5951),,True,True
+2022,54116,True,17085,historical_account,17085,17085,"City of Dubuque, IA",Dubuque,POINT (-90.5071 42.5006),organization_state_vs_assigned_county;organization_state_vs_coordinate,False,False
+2022,54119,True,06085,historical_account,06085,06085,"City of Palo Alto, CA",Palo Alto,POINT (-122.143 37.4419),,True,True
+2022,54124,True,06001,historical_account,06001,06001,"City of Fremont, CA",Fremont,POINT (-121.989 37.5483),,True,True
+2022,54125,True,,unmatched,,,"City of Boise, ID",Boise,,unmatched,False,False
+2022,54128,True,32031,historical_account,32031,32031,"City of Reno, NV",Reno,POINT (-119.814 39.5296),,True,True
+2022,55799,True,51131,historical_account,51131,51131,"Arlington, VA",Arlington,POINT (-76.0026 37.2265),known_Arlington_VA_point_in_Northampton,False,False
+2022,55800,True,27059,historical_account,27059,25017,"City of Cambridge, MA","Cambridge, MA",POINT (-71.1057 42.3674),historical_vs_current_coordinate;organization_state_vs_assigned_county,False,False
+2022,55801,True,12099,historical_account,12099,12099,"City of West Palm Beach, FL",West Palm Beach,POINT (-80.0534 26.7153),,True,True
+2022,57616,True,17097,historical_account,17097,17097,"City of Lake Forest, IL",Lake Forest,POINT (-87.8406 42.2586),,True,True
+2022,58310,False,51770,historical_account,51770,51770,"City of Roanoke, VA",Roanoke,POINT (-79.9414 37.271),,True,False
+2022,58485,True,42091,historical_account,42091,42091,"Abington Township, PA",,POINT (-75.1195 40.1241),,True,True
+2022,58513,True,41029,historical_account,41029,41029,"City of Medford, MA",Medford,POINT (-122.876 42.3265),organization_state_vs_assigned_county;organization_state_vs_coordinate,False,False
+2022,58531,True,25017,historical_account,25017,25017,"City of Somerville, MA",Somerville,POINT (-71.0826 42.3934),,True,True
+2022,58590,True,42095,historical_account,42095,42095,"City of Easton, PA",Easton,POINT (-75.2207 40.6884),,True,True
+2022,58591,True,,unmatched,,,"City of Greenbelt, MD",,,unmatched,False,False
+2022,58627,False,17119,historical_account,17119,17119,"City of Alton, IL",Alton,POINT (-90.1843 38.8906),,True,False
+2022,58636,True,53073,historical_account,53073,53073,"City of Bellingham, WA",Bellingham,POINT (-122.479 48.7519),,True,True
+2022,58668,True,25005,historical_account,25005,25005,"City of New Bedford, MA",New Bedford,POINT (-70.9342 41.6362),,True,True
+2022,58871,True,25009,TIGER2019_point,25009;41047,25009,"City of Salem, MA",Salem,POINT (-70.8967 42.5195),historical_multiple_counties,False,False
+2022,59532,True,,unmatched,,,"City of Hoboken, NJ",,,unmatched,False,False
+2022,59535,True,08037,historical_account,08037,08037,"Town of Vail, CO",Vail,POINT (-106.374 39.6403),,True,True
+2022,59537,True,48121,historical_account,48121,48121,"City of Denton, TX",Denton,POINT (-97.1331 33.2148),,True,True
+2022,59545,True,51540,historical_account,51540,51540,"City of Charlottesville, VA",Charlottesville,POINT (-78.4767 38.0293),,True,True
+2022,59563,True,24031,historical_account,24031,24031,"City of Takoma Park, MD",Takoma Park,POINT (-77.0075 38.9779),,True,True
+2022,59588,True,37135,historical_account,37135,37135,"Town of Chapel Hill, NC",Chapel Hill,POINT (-79.0558 35.9132),,True,True
+2022,59633,True,06087,historical_account,06087,06087,"City of Santa Cruz, CA","Santa Cruz, CA",POINT (-122.031 36.9741),,True,True
+2022,59644,True,06037,historical_account,06037,06037,"City of Culver City, CA",Culver City,POINT (-118.4 34.02),,True,True
+2022,59653,True,06037,historical_account,06037,06037,"City of Manhattan Beach, CA",Manhattan Beach,POINT (-118.405 33.8889),,True,True
+2022,59657,True,41067,TIGER2019_point,,41067,"City of Beaverton, OR",Beaverton,POINT (-122.797 45.4857),,True,True
+2022,59678,True,17031,historical_account,17031,17031,"City of Evanston, IL",Evanston,POINT (-87.6898 42.0669),,True,True
+2022,59696,True,,unmatched,,,"City of Longmont, CO",,,unmatched,False,False
+2022,59703,False,,unmatched,,,"City of Menlo Park, CA",,,unmatched,False,False
+2022,59707,True,,unmatched,,,"Town of Princeton, NJ",,,unmatched,False,False
+2022,59708,False,,unmatched,,,"City of Bethlehem, PA",,,unmatched,False,False
+2022,60656,True,06001,historical_account,06001,06001,"City of Piedmont, CA",Piedmont,POINT (-122.232 37.8244),,True,True
+2022,61790,True,06001,historical_account,06001,06001,"City of Emeryville, CA",Emeryville,POINT (-122.285 37.8313),,True,True
+2022,62817,True,,unmatched,,,"City of Ithaca, NY",,,unmatched,False,False
+2022,63562,True,,unmatched,,,"City of South Bend, IN",South Bend,POINT (41.6754 -86.2532),coordinate_outside_TIGER_counties;unmatched,False,False
+2022,63601,True,34013,historical_account,34013,34013,"Township of Maplewood, NJ",Maplewood,POINT (-74.27 40.73),,True,True
+2022,63941,True,,unmatched,,,"Broward County, FL",Broward,POINT (80.3659 26.1901),coordinate_outside_TIGER_counties;unmatched,False,False
+2022,63999,True,12086,historical_account,12086,12086,"City of Miami Beach, FL",Miami Beach,POINT (-80.13 25.7906),,True,True
+2022,64014,True,06085,historical_account,06085,06085,"City of Cupertino, CA",Cupertino,POINT (-122.032 37.323),,True,True
+2022,73295,True,55063,historical_account,55063,55063,"City of La Crosse, WI",La Crosse,POINT (-91.2476 43.8166),,True,True
+2022,73530,True,25017,historical_account,25017,25017,"Town of Lexington, MA","Lexington, MA",POINT (-71.2269 42.4443),,True,True
+2022,73666,True,,unmatched,,,"Cuyahoga County, OH",,,unmatched,False,False
+2022,73706,True,,unmatched,,,"City of Alameda, CA",Alameda,POINT (122.163 37.4522),coordinate_outside_TIGER_counties;unmatched,False,False
+2022,73723,True,,unmatched,,,"San Rafael, CA",,,unmatched,False,False
+2022,73810,True,,unmatched,,,"Miami-Dade, FL",,,unmatched,False,False
+2022,74414,True,08013,historical_account,08013,08013,"Boulder County, CO",Boulder County,POINT (-105.5 40.15),,True,True
+2022,74418,True,,unmatched,,,"Town of Breckenridge, CO",Breckenridge,POINT (106.038 39.4817),coordinate_outside_TIGER_counties;unmatched,False,False
+2022,74453,True,,unmatched,,,"City of Highland Park, IL",,,unmatched,False,False
+2022,74462,True,,unmatched,,,"Village of Oak Park, IL",,,unmatched,False,False
+2022,74488,True,,unmatched,,,"City of Beverly, MA",,,unmatched,False,False
+2022,74502,True,,unmatched,,,"City of Eden Prairie, MN",,,unmatched,False,False
+2022,74508,False,27169,historical_account,27169,27169,"City of Winona, MN",Winona,POINT (-91.6663 44.0554),,True,False
+2022,74531,True,35049,historical_account,35049,35049,"Santa Fe County, NM",Santa Fe County,POINT (-106 35.5),,True,True
+2022,74539,True,,unmatched,,,"City of Oberlin, OH",,,unmatched,False,False
+2022,74540,True,,unmatched,,,"Village of Hastings-on-Hudson, NY",,,unmatched,False,False
+2022,74547,True,,unmatched,,,"City of Mosier, OR",,,unmatched,False,False
+2022,74563,True,,unmatched,,,"Town of Guilford, VT",,,unmatched,False,False
+2022,74568,True,,unmatched,,,"City of Shoreline, WA",Shoreline,,unmatched,False,False
+2022,74575,True,,unmatched,,,"Dane County, WI",,,unmatched,False,False
+2022,74594,True,12099,historical_account,12099,12099,"City of Boynton Beach, FL",Boynton Beach,POINT (-80.216 26.4986),,True,True
+2022,832838,False,25001,historical_account,25001,25001,"Town of Wellfleet, MA",Wellfleet,POINT (-70.031 41.9305),,True,False
+2022,834083,True,,unmatched,,,"City of Eau Claire, WI",Eau Claire,,unmatched,False,False
+2022,834373,True,,unmatched,,,"Town of York, ME",,,unmatched,False,False
+2022,841964,True,12011,historical_account,12011,12011,"City of Hallandale Beach, FL",Hallandale Beach,POINT (-80.1484 25.9812),,True,True
+2022,841965,False,26065,TIGER2019_point,,26065,"City of Lansing, MI",Lansing,POINT (-84.5555 42.7325),,True,False
+2022,842035,True,,unmatched,,,"State College Borough, PA",,,unmatched,False,False
+2022,848565,True,,unmatched,,,Chicago Metropolitan Mayors Caucus,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2022,848567,True,,unmatched,,,Mid-America Regional Council,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2022,848568,False,,unmatched,,,"Metropolitan Council, Twin Cities",,,possibly_multicounty_jurisdiction;unmatched,False,False
+2022,852443,True,,unmatched,,,"Ferndale, MI",,,unmatched,False,False
+2022,862760,True,,unmatched,,,"City of Oxford, OH",,,unmatched,False,False
+2022,862932,True,,unmatched,,,"Superior, CO",,,unmatched,False,False
+2022,863224,True,,unmatched,,,East Central Florida Regional Planning Council,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2022,863405,True,,unmatched,,,"City of Boca Raton, FL",,,unmatched,False,False
+2022,863407,False,,unmatched,,,"Town of Durham, NH",,,unmatched,False,False
+2022,863412,True,,unmatched,,,"City of Tumwater, WA",,,unmatched,False,False
+2022,866887,True,,unmatched,,,"City of Bexley, OH",,,unmatched,False,False
+2023,10495,True,32003,historical_account,32003,32003,"City of Las Vegas, NV",Las Vegas,POINT (-115.14 36.1699),,True,True
+2023,10894,True,06037,historical_account,06037,06037,"City of Los Angeles, CA",Los Angeles,POINT (-118.244 34.0522),,True,True
+2023,1093,True,13121,historical_account,13121,13121,"City of Atlanta, GA",Atlanta,POINT (-84.388 33.749),,True,True
+2023,1184,True,48453,historical_account,48453,48453,"City of Austin, TX",Austin,POINT (-97.7431 30.2672),,True,True
+2023,13067,True,22071,historical_account,22071,22071,"City of New Orleans, LA",New Orleans,POINT (-90.0715 29.9511),,True,True
+2023,14344,True,49043,historical_account,49043,49043,"City of Park City, UT",Park City,POINT (-111.498 40.6461),,True,True
+2023,14874,True,41051,historical_account,41051,41051,"City of Portland, OR","Portland, OR",POINT (-122.682 45.52),,True,True
+2023,16581,True,53033,historical_account,53033,53033,"City of Seattle, WA",Seattle,POINT (-122.332 47.6062),,True,True
+2023,31090,True,11001,historical_account,11001,11001,"District of Columbia, DC","Washington, DC",POINT (-77.0369 38.9072),,True,True
+2023,31108,True,48201,historical_account,48201,48201,"City of Houston, TX",Houston,POINT (-95.3694 29.7602),,True,True
+2023,31177,True,49035,historical_account,49035,49035,"Salt Lake City, UT",Salt Lake City,POINT (-111.891 40.7608),,True,True
+2023,31181,True,42101,historical_account,42101,42101,"City of Philadelphia, PA",Philadelphia,POINT (-75.1638 39.9523),,True,True
+2023,31182,True,06075,historical_account,06075,06075,"City of San Francisco, CA",San Francisco,POINT (-122.419 37.7749),,True,True
+2023,3203,True,17031,historical_account,17031,17031,"City of Chicago, IL",Chicago,POINT (-87.6298 41.8781),,True,True
+2023,32550,True,08031,historical_account,08031,08031,"City of Denver, CO",Denver,POINT (-104.985 39.7376),,True,True
+2023,3417,True,36061,historical_account,36061,36061,"New York City, NY",New York City,POINT (-74.0059 40.7128),,True,True
+2023,35268,True,25025,historical_account,25025,25025,"City of Boston, MA",Boston,POINT (-71.0598 42.3584),,True,True
+2023,35274,True,23005,historical_account,23005,23005,"City of Portland, ME",Portland,POINT (-70.2553 43.6615),,True,True
+2023,35853,True,24510,historical_account,24510,24510,"City of Baltimore, MD",Baltimore,POINT (-76.6122 39.2904),,True,True
+2023,35857,True,39061,historical_account,39061,39061,"City of Cincinnati, OH",Cincinnati,POINT (-84.512 39.1031),,True,True
+2023,35859,True,39035,historical_account,39035,39035,"City of Cleveland, OH",Cleveland,POINT (-81.6944 41.4993),,True,True
+2023,35860,True,48113,historical_account,48113,48113,"City of Dallas, TX",Dallas,POINT (-96.8004 32.7801),,True,True
+2023,35870,True,12086,historical_account,12086,12086,"City of Miami, FL",Miami,POINT (-80.1918 25.7617),,True,True
+2023,35874,True,04013,historical_account,04013,04013,"City of Phoenix, AZ",Phoenix,POINT (-112.074 33.4484),,True,True
+2023,35877,True,42003,historical_account,42003,42003,"City of Pittsburgh, PA",Pittsburgh,POINT (-79.9959 40.4406),,True,True
+2023,35878,True,06067,historical_account,06067,06067,"City of Sacramento, CA",Sacramento,POINT (-121.494 38.5816),,True,True
+2023,35882,True,,unmatched,,,"City of Tampa, FL",Tampa,,unmatched,False,False
+2023,35883,True,06085,historical_account,06085,06085,"City of San José, CA","San José, CA",POINT (-121.886 37.3382),,True,True
+2023,35884,True,06073,historical_account,06073,06073,"City of San Diego, CA",San Diego,POINT (-117.163 32.7175),,True,True
+2023,36410,True,47157,historical_account,47157,47157,"City of Memphis, TN",Memphis,POINT (-90.049 35.1495),,True,True
+2023,37241,True,,unmatched,,,"City of Berkeley, CA",Berkeley,,unmatched,False,False
+2023,43905,True,48029,historical_account,48029,48029,"City of San Antonio, TX",San Antonio,POINT (-98.4936 29.4241),,True,True
+2023,43907,True,18097,historical_account,18097,18097,"City of Indianapolis, IN",Indianapolis,POINT (-86.1785 39.7676),,True,True
+2023,43908,True,55079,historical_account,55079,55079,"City of Milwaukee, WI",Milwaukee,POINT (-87.9065 43.0389),,True,True
+2023,43909,True,12095,historical_account,12095,12095,"City of Orlando, FL",Orlando,POINT (-81.3792 28.5383),,True,True
+2023,43910,True,39049,historical_account,39049,39049,"City of Columbus, OH",Columbus,POINT (-82.9988 39.9612),,True,True
+2023,43914,True,37119,historical_account,37119,37119,"City of Charlotte, NC",Charlotte,POINT (-80.8431 35.2271),,True,True
+2023,49172,True,,unmatched,,,"City of St. Petersburg, FL",St. Petersburg,,unmatched,False,False
+2023,49330,True,29047,historical_account,29047,29047,"Kansas City, MO",Kansas City,POINT (-94.573 39.1429),,True,True
+2023,49335,True,47037,historical_account,47037,47037,"Metropolitan Government of Nashville and Davidson County, TN",Nashville,POINT (-86.7816 36.1627),,True,True
+2023,49339,True,,unmatched,,,"City and County of Honolulu, HI",Honolulu,POINT (157.59 21.28),coordinate_outside_TIGER_counties;unmatched,False,False
+2023,49342,True,36055,historical_account,36055,36055,"City of Rochester, NY",Rochester,POINT (-77.6109 43.161),,True,True
+2023,49345,True,,unmatched,,,"City of Birmingham, AL","Birmingham, AL",,unmatched,False,False
+2023,49346,True,,unmatched,,,"City of Allentown, PA",Allentown,,unmatched,False,False
+2023,49347,True,,unmatched,,,"City of Omaha, NE",Omaha,,unmatched,False,False
+2023,50401,True,55025,historical_account,55025,55025,"City of Madison, WI",Madison,POINT (-89.3818 43.0728),,True,True
+2023,50540,True,,unmatched,,,"City of Albuquerque, NM",,,unmatched,False,False
+2023,50541,True,37081,historical_account,37081,37081,"City of Greensboro, NC",Greensboro,POINT (-79.792 36.0726),,True,True
+2023,50544,True,,unmatched,,,"City of Aurora, IL",Aurora,POINT (41.7606 88.3201),coordinate_outside_TIGER_counties;unmatched,False,False
+2023,50545,True,,unmatched,,,"City of Henderson, NV",Henderson,,unmatched,False,False
+2023,50551,False,06037,historical_account,06037,06037,"City of Long Beach, CA",Long Beach,POINT (-118.194 33.7701),,True,False
+2023,50554,True,,unmatched,,,"City of Mesa, AZ",Mesa,,unmatched,False,False
+2023,50560,True,06001,historical_account,06001,06001,"City of Oakland, CA",Oakland,POINT (-122.271 37.8044),,True,True
+2023,50562,True,06073,historical_account,06073,06073,"City of Chula Vista, CA",Chula Vista,POINT (-117.084 32.64),,True,True
+2023,50572,True,27123,historical_account,27123,27123,"City of Saint Paul, MN",Saint Paul,POINT (-93.09 44.9537),,True,True
+2023,50577,True,,unmatched,,,"City of Wichita, KS",Wichita,,unmatched,False,False
+2023,52894,True,37067,historical_account,37067,37067,"City of Winston-Salem, NC",Winston-Salem,POINT (-80.2442 36.0999),,True,True
+2023,52896,True,,unmatched,,,"City of Fort Lauderdale, FL",Fort Lauderdale,,unmatched,False,False
+2023,52897,True,08097,historical_account,08097,08097,"City of Aspen, CO",Aspen,POINT (-106.837 39.195),,True,True
+2023,53860,True,,unmatched,,,"City of Wilmington, NC",Wilmington,,unmatched,False,False
+2023,53899,True,,unmatched,,,"City of Worcester, MA",Worcester,,unmatched,False,False
+2023,53921,True,04013,historical_account,04013,04013,"City of Tempe, AZ",Tempe,POINT (-111.94 33.4255),,True,True
+2023,53931,True,,unmatched,,,"City of Alexandria, VA",Alexandria,,unmatched,False,False
+2023,53959,True,05143,historical_account,05143,05143,"City of Fayetteville, AR",Fayetteville,POINT (-94.1719 36.0821),,True,True
+2023,54026,True,53053,historical_account,53053,53053,"City of Tacoma, WA",Tacoma,POINT (-122.444 47.2529),,True,True
+2023,54029,True,,unmatched,,,"City of Spokane, WA",Spokane,,unmatched,False,False
+2023,54030,True,05119,historical_account,05119,05119,"City of Little Rock, AR",Little Rock,POINT (-92.2896 34.7465),,True,True
+2023,54034,True,,unmatched,,,"City of Grand Rapids, MI",Grand Rapids,,unmatched,False,False
+2023,54037,True,,unmatched,,,"City of Des Moines, IA",Des Moines,,unmatched,False,False
+2023,54048,True,47093,historical_account,47093,47093,"City of Knoxville, TN",Knoxville,POINT (-83.9207 35.9606),,True,True
+2023,54066,True,08069,historical_account,08069,08069,"City of Fort Collins, CO",Fort Collins,POINT (-105.084 40.5853),,True,True
+2023,54075,True,08059,historical_account,08059,08059,"City of Lakewood, CO",Lakewood,POINT (-105.081 39.7047),,True,True
+2023,54092,True,26161,historical_account,26161,26161,"City of Ann Arbor, MI",Ann Arbor,POINT (-83.743 42.2808),,True,True
+2023,54100,True,29019,historical_account,29019,29019,"City of Columbia, MO","Columbia, MO",POINT (-92.3341 38.9517),,True,True
+2023,54102,True,36001,historical_account,36001,36001,"City of Albany, NY",Albany,POINT (-73.7562 42.6526),,True,True
+2023,54104,True,08013,historical_account,08013,08013,"City of Boulder, CO",Boulder,POINT (-105.252 40.0274),,True,True
+2023,54105,True,,unmatched,,,"City of Duluth, MN",Duluth,,unmatched,False,False
+2023,54109,True,18105,historical_account,18105,18105,"City of Bloomington, IN",Bloomington,POINT (-86.5264 39.1653),,True,True
+2023,54110,True,06037,historical_account,06037,06037,"City of Santa Monica, CA",Santa Monica,POINT (-118.481 34.0219),,True,True
+2023,54111,True,19103,historical_account,19103,19103,"City of Iowa City, IA",Iowa City,POINT (-91.5302 41.6611),,True,True
+2023,54113,True,04005,historical_account,04005,04005,"City of Flagstaff, AZ",Flagstaff,POINT (-111.631 35.1992),,True,True
+2023,54114,True,37021,historical_account,37021,37021,"City of Asheville, NC",Asheville,POINT (-82.5515 35.5951),,True,True
+2023,54116,True,17085,historical_account,17085,17085,"City of Dubuque, IA",Dubuque,POINT (-90.5071 42.5006),organization_state_vs_assigned_county;organization_state_vs_coordinate,False,False
+2023,54119,True,06085,historical_account,06085,06085,"City of Palo Alto, CA",Palo Alto,POINT (-122.143 37.4419),,True,True
+2023,54124,True,06001,historical_account,06001,06001,"City of Fremont, CA",Fremont,POINT (-121.989 37.5483),,True,True
+2023,54125,True,,unmatched,,,"City of Boise, ID",Boise,,unmatched,False,False
+2023,54128,True,32031,historical_account,32031,32031,"City of Reno, NV",Reno,POINT (-119.814 39.5296),,True,True
+2023,55799,True,51131,historical_account,51131,51131,"Arlington, VA",Arlington,POINT (-76.0026 37.2265),known_Arlington_VA_point_in_Northampton,False,False
+2023,55800,True,27059,historical_account,27059,25017,"City of Cambridge, MA","Cambridge, MA",POINT (-71.1057 42.3674),historical_vs_current_coordinate;organization_state_vs_assigned_county,False,False
+2023,55801,True,12099,historical_account,12099,12099,"City of West Palm Beach, FL",West Palm Beach,POINT (-80.0534 26.7153),,True,True
+2023,57616,True,17097,historical_account,17097,17097,"City of Lake Forest, IL",Lake Forest,POINT (-87.8406 42.2586),,True,True
+2023,58485,True,42091,historical_account,42091,42091,"Abington Township, PA",,POINT (-75.1195 40.1241),,True,True
+2023,58513,True,41029,historical_account,41029,41029,"City of Medford, MA",Medford,POINT (-122.876 42.3265),organization_state_vs_assigned_county;organization_state_vs_coordinate,False,False
+2023,58531,True,25017,historical_account,25017,25017,"City of Somerville, MA",Somerville,POINT (-71.0826 42.3934),,True,True
+2023,58590,True,42095,historical_account,42095,42095,"City of Easton, PA",Easton,POINT (-75.2207 40.6884),,True,True
+2023,58668,True,25005,historical_account,25005,25005,"City of New Bedford, MA",New Bedford,POINT (-70.9342 41.6362),,True,True
+2023,58871,True,25009,TIGER2019_point,25009;41047,25009,"City of Salem, MA",Salem,POINT (-70.8967 42.5195),historical_multiple_counties,False,False
+2023,59532,True,,unmatched,,,"City of Hoboken, NJ",,,unmatched,False,False
+2023,59537,True,48121,historical_account,48121,48121,"City of Denton, TX",Denton,POINT (-97.1331 33.2148),,True,True
+2023,59545,True,51540,historical_account,51540,51540,"City of Charlottesville, VA",Charlottesville,POINT (-78.4767 38.0293),,True,True
+2023,59563,True,24031,historical_account,24031,24031,"City of Takoma Park, MD",Takoma Park,POINT (-77.0075 38.9779),,True,True
+2023,59588,True,37135,historical_account,37135,37135,"Town of Chapel Hill, NC",Chapel Hill,POINT (-79.0558 35.9132),,True,True
+2023,59633,True,06087,historical_account,06087,06087,"City of Santa Cruz, CA","Santa Cruz, CA",POINT (-122.031 36.9741),,True,True
+2023,59653,True,06037,historical_account,06037,06037,"City of Manhattan Beach, CA",Manhattan Beach,POINT (-118.405 33.8889),,True,True
+2023,59657,True,41067,TIGER2019_point,,41067,"City of Beaverton, OR",Beaverton,POINT (-122.797 45.4857),,True,True
+2023,59677,True,,unmatched,,,"City of Mountain View, CA",,,unmatched,False,False
+2023,59678,True,17031,historical_account,17031,17031,"City of Evanston, IL",Evanston,POINT (-87.6898 42.0669),,True,True
+2023,59696,True,,unmatched,,,"City of Longmont, CO",,,unmatched,False,False
+2023,59707,True,,unmatched,,,"Town of Princeton, NJ",,,unmatched,False,False
+2023,59708,True,,unmatched,,,"City of Bethlehem, PA",,,unmatched,False,False
+2023,60656,True,06001,historical_account,06001,06001,"City of Piedmont, CA",Piedmont,POINT (-122.232 37.8244),,True,True
+2023,63562,True,,unmatched,,,"City of South Bend, IN",South Bend,POINT (41.6754 -86.2532),coordinate_outside_TIGER_counties;unmatched,False,False
+2023,63601,True,34013,historical_account,34013,34013,"Township of Maplewood, NJ",Maplewood,POINT (-74.27 40.73),,True,True
+2023,63762,True,,unmatched,,,Metropolitan Washington Council of Governments,,,unmatched,False,False
+2023,63941,True,,unmatched,,,"Broward County, FL",Broward,POINT (80.3659 26.1901),coordinate_outside_TIGER_counties;unmatched,False,False
+2023,63999,True,12086,historical_account,12086,12086,"City of Miami Beach, FL",Miami Beach,POINT (-80.13 25.7906),,True,True
+2023,64014,True,06085,historical_account,06085,06085,"City of Cupertino, CA",Cupertino,POINT (-122.032 37.323),,True,True
+2023,73295,True,55063,historical_account,55063,55063,"City of La Crosse, WI",La Crosse,POINT (-91.2476 43.8166),,True,True
+2023,73530,True,25017,historical_account,25017,25017,"Town of Lexington, MA","Lexington, MA",POINT (-71.2269 42.4443),,True,True
+2023,73666,True,,unmatched,,,"Cuyahoga County, OH",,,unmatched,False,False
+2023,73669,True,,unmatched,,,"San Luis Obispo, CA",,,unmatched,False,False
+2023,73723,True,,unmatched,,,"San Rafael, CA",,,unmatched,False,False
+2023,73728,True,,unmatched,,,"North Miami, FL",,,unmatched,False,False
+2023,73810,True,,unmatched,,,"Miami-Dade, FL",,,unmatched,False,False
+2023,74414,True,08013,historical_account,08013,08013,"Boulder County, CO",Boulder County,POINT (-105.5 40.15),,True,True
+2023,74418,True,,unmatched,,,"Town of Breckenridge, CO",Breckenridge,POINT (106.038 39.4817),coordinate_outside_TIGER_counties;unmatched,False,False
+2023,74462,True,,unmatched,,,"Village of Oak Park, IL",,,unmatched,False,False
+2023,74463,True,,unmatched,,,"Village of Park Forest, IL",,,unmatched,False,False
+2023,74481,False,,unmatched,,,"Town of Acton, MA",,,unmatched,False,False
+2023,74488,True,,unmatched,,,"City of Beverly, MA",,,unmatched,False,False
+2023,74508,True,27169,historical_account,27169,27169,"City of Winona, MN",Winona,POINT (-91.6663 44.0554),,True,True
+2023,74531,True,35049,historical_account,35049,35049,"Santa Fe County, NM",Santa Fe County,POINT (-106 35.5),,True,True
+2023,74539,True,,unmatched,,,"City of Oberlin, OH",,,unmatched,False,False
+2023,74540,True,,unmatched,,,"Village of Hastings-on-Hudson, NY",,,unmatched,False,False
+2023,74563,True,,unmatched,,,"Town of Guilford, VT",,,unmatched,False,False
+2023,74568,True,,unmatched,,,"City of Shoreline, WA",Shoreline,,unmatched,False,False
+2023,74575,True,,unmatched,,,"Dane County, WI",,,unmatched,False,False
+2023,74594,True,12099,historical_account,12099,12099,"City of Boynton Beach, FL",Boynton Beach,POINT (-80.216 26.4986),,True,True
+2023,832610,True,,unmatched,,,"Orange County, NC",,,unmatched,False,False
+2023,834083,True,,unmatched,,,"City of Eau Claire, WI",Eau Claire,,unmatched,False,False
+2023,834373,True,,unmatched,,,"Town of York, ME",,,unmatched,False,False
+2023,840228,True,12011,TIGER2019_point,,12011,"Town of Davie, FL",Davie,POINT (-80.2333 26.0625),,True,True
+2023,841960,True,23027,TIGER2019_point,,23027,"City of Belfast, ME",Belfast,POINT (-69 44.42),,True,True
+2023,841965,False,26065,TIGER2019_point,,26065,"City of Lansing, MI",Lansing,POINT (-84.5555 42.7325),,True,False
+2023,841970,True,18157,TIGER2019_point,,18157,"City of West Lafayette, IN",,POINT (-86.9125 40.4419),,True,True
+2023,842035,True,,unmatched,,,"State College Borough, PA",,,unmatched,False,False
+2023,848565,True,,unmatched,,,Chicago Metropolitan Mayors Caucus,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2023,848567,True,,unmatched,,,Mid-America Regional Council,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2023,852443,True,,unmatched,,,"Ferndale, MI",,,unmatched,False,False
+2023,852445,True,,unmatched,,,"Gainesville, FL",,,unmatched,False,False
+2023,852480,True,,unmatched,,,"Howard County, MD",,,unmatched,False,False
+2023,862760,True,,unmatched,,,"City of Oxford, OH",,,unmatched,False,False
+2023,862932,True,,unmatched,,,"Superior, CO",,,unmatched,False,False
+2023,863224,True,,unmatched,,,East Central Florida Regional Planning Council,,,possibly_multicounty_jurisdiction;unmatched,False,False
+2023,863405,True,,unmatched,,,"City of Boca Raton, FL",,,unmatched,False,False
+2023,863407,True,,unmatched,,,"Town of Durham, NH",,,unmatched,False,False
+2023,863412,True,,unmatched,,,"City of Tumwater, WA",,,unmatched,False,False
+2023,866887,True,,unmatched,,,"City of Bexley, OH",,,unmatched,False,False
+2023,866890,True,,unmatched,,,"City of Prairie Village, KS",,,unmatched,False,False
+2023,927260,True,,unmatched,,,"City of Grand Junction, CO",,,unmatched,False,False

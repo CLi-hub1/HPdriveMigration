@@ -1,0 +1,16 @@
+{
+  "torch": "2.8.0+cu128",
+  "transformers": "4.57.6",
+  "device": "NVIDIA GeForce RTX 5080",
+  "seed": 20261020,
+  "base_model": "distilbert/distilbert-base-uncased",
+  "precision": "bf16 autocast with float32 parameters",
+  "params": {
+    "learning_rate": 1e-05,
+    "epochs": 5,
+    "batch_size": 8,
+    "max_length": 512
+  },
+  "checkpoint_resume": false,
+  "network_text_upload": false
+}

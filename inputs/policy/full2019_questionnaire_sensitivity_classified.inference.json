@@ -1,0 +1,18 @@
+{
+  "input": "full2019_questionnaire_sensitivity_groups.csv",
+  "input_sha256": "92cd0f5391d648d869a7dfa38bcbf804113d04df1d0709d029efbf59cfbd5db9",
+  "output_sha256": "0c9b95c938ce1005b9ec63e5fb83a2252319c86969ba4ffe19a0705316294b63",
+  "rows": 8510,
+  "model_sha256": "c46494f7b2d4a034425bddc8bf9587a97834f227d4a8747937ff734a85cab048",
+  "shared_cache_sha256": "f783392cac5247dd7bf4bb57f4c830437884a83be676c9576ce4d698601102b3",
+  "inference_precision": "FP32; TF32 disabled; deterministic algorithms; fixed padding 512",
+  "one_prediction_per_exact_text": true,
+  "threshold": "sigmoid(logit) > 0.5",
+  "retrained": false,
+  "torch": "2.8.0+cu128",
+  "transformers": "4.57.6",
+  "original_input_sha256": "ece964f4982112bf9a0cddf9dfc393af538ed96235bf8ba8852dadf984a6ccb8",
+  "original_output_sha256": "ffa7beb20526fe2296ccb585ddda9a0d89acf6851191cc8d62a2b55cc94d48ee",
+  "original_shared_cache_sha256": "6248b1fd9f1adec671ef57a068b625ff1a758cce55a3920c98699921804ea3a8",
+  "public_text_redaction": "A local file path in one original action text was redacted after archived inference; predictions were not recomputed."
+}

@@ -1,0 +1,71 @@
+{
+  "original_rows": 1178,
+  "raw_text_empty_rows": 14,
+  "original_merge_empty_rows": 14,
+  "encoding_warning_rows": 0,
+  "conflicting_label_rows_excluded": 30,
+  "exact_same_text_duplicates_excluded": 170,
+  "training_unique_texts": 964,
+  "accounts": 129,
+  "connected_groups_after_exclusions": 95,
+  "largest_group_sizes": {
+    "6": 246,
+    "42": 36,
+    "54": 31,
+    "76": 22,
+    "102": 22,
+    "53": 21,
+    "84": 20,
+    "182": 20,
+    "59": 19,
+    "117": 17
+  },
+  "fold_sizes": {
+    "0": 246,
+    "1": 180,
+    "2": 180,
+    "3": 179,
+    "4": 179
+  },
+  "fold_label_counts": {
+    "0": {
+      "Technological/Infrastructural": 165,
+      "Institutional": 75,
+      "Behavioral/Cultural": 59,
+      "Nature-Based": 33
+    },
+    "1": {
+      "Technological/Infrastructural": 124,
+      "Institutional": 48,
+      "Behavioral/Cultural": 38,
+      "Nature-Based": 20
+    },
+    "2": {
+      "Technological/Infrastructural": 115,
+      "Institutional": 58,
+      "Behavioral/Cultural": 51,
+      "Nature-Based": 18
+    },
+    "3": {
+      "Technological/Infrastructural": 127,
+      "Institutional": 55,
+      "Behavioral/Cultural": 40,
+      "Nature-Based": 23
+    },
+    "4": {
+      "Technological/Infrastructural": 133,
+      "Institutional": 44,
+      "Behavioral/Cultural": 34,
+      "Nature-Based": 21
+    }
+  },
+  "text_input": "Original Action + '. ' + Action description; no augmentation or lemmatization",
+  "deduplication": "One copy per exact normalized original text; all inconsistent text-label identities excluded pending human adjudication",
+  "grouping": "Connected components sharing reporting Account or exact normalized source/preprocessed text",
+  "params": {
+    "learning_rate": 1e-05,
+    "epochs": 5,
+    "batch_size": 8,
+    "max_length": 512
+  }
+}

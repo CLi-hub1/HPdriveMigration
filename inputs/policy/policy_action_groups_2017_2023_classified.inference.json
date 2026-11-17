@@ -1,0 +1,18 @@
+{
+  "input": "policy_action_groups_2017_2023.csv",
+  "input_sha256": "2aa9baae2a29fc04c4561f8fc355e5a278eed9735b64c488eb7e5f3d64cf9568",
+  "output_sha256": "76b4e2d3f4183fd1e22f53c7f7b2cf834a27afda25382233f4338326ee199b6e",
+  "rows": 8355,
+  "model_sha256": "c46494f7b2d4a034425bddc8bf9587a97834f227d4a8747937ff734a85cab048",
+  "shared_cache_sha256": "f783392cac5247dd7bf4bb57f4c830437884a83be676c9576ce4d698601102b3",
+  "inference_precision": "FP32; TF32 disabled; deterministic algorithms; fixed padding 512",
+  "one_prediction_per_exact_text": true,
+  "threshold": "sigmoid(logit) > 0.5",
+  "retrained": false,
+  "torch": "2.8.0+cu128",
+  "transformers": "4.57.6",
+  "original_input_sha256": "23ee2ef839c830ca81c4982c91ce9b2b3351c304a87d4abfc22462d2b47deb8b",
+  "original_output_sha256": "6bf7b53f36bb5beab65239eee06a9680041941c28f544a34faa369b2e24237a4",
+  "original_shared_cache_sha256": "6248b1fd9f1adec671ef57a068b625ff1a758cce55a3920c98699921804ea3a8",
+  "public_text_redaction": "A local file path in one original action text was redacted after archived inference; predictions were not recomputed."
+}

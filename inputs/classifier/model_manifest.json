@@ -1,0 +1,35 @@
+{
+  "files_sha256": {
+    "config.json": "fb48da56de85863ff31b4ee7bca3b653c6353c3dca0e4d3ed3dc8a6acf61f5a1",
+    "model.safetensors": "c46494f7b2d4a034425bddc8bf9587a97834f227d4a8747937ff734a85cab048",
+    "special_tokens_map.json": "3c3507f36dff57bce437223db3b3081d1e2b52ec3e56ee55438193ecb2c94dd6",
+    "tokenizer.json": "91f1def9b9391fdabe028cd3f3fcc4efd34e5d1f08c3bf2de513ebb5911a1854",
+    "tokenizer_config.json": "21c3bea73b6711617c657664adcd4d0b02ce20d2db4b2ebdd722a6da8da28bcd",
+    "vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+  },
+  "training_rows": 964,
+  "training_loss": [
+    0.5162352523035254,
+    0.35280110606969883,
+    0.2893920427511546,
+    0.26186732960141396,
+    0.24666096805787283
+  ],
+  "base_model": "distilbert/distilbert-base-uncased",
+  "base_revision": "12040accade4e8a0f71eabdb258fecc2e7e948be",
+  "labels": [
+    "Technological/Infrastructural",
+    "Institutional",
+    "Behavioral/Cultural",
+    "Nature-Based"
+  ],
+  "threshold": "sigmoid(logit) > 0.5",
+  "params": {
+    "learning_rate": 1e-05,
+    "epochs": 5,
+    "batch_size": 8,
+    "max_length": 512
+  },
+  "human_source_sha256": "e42e0ac937502dd969525aae5003bffe0f489796fed141912570364fd01f5fba",
+  "limitations": "No new-year human validation; probability confidence is uncalibrated; inherited labels are not independently re-adjudicated."
+}
