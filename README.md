@@ -92,5 +92,4 @@ The [MIT License](LICENSE) applies to the code. Third-party data and pretrained 
 
 ## Contact
 
-**Xing Su** — [xsu@zju.edu.cn](mailto:xsu@zju.edu.cn)  
-**Chao Fan** — [cfan@g.clemson.edu](mailto:cfan@g.clemson.edu)
+**Xing Su** — [20250612@hhu.edu.cn](mailto:20250612@hhu.edu.cn)  
