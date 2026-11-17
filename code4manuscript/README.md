@@ -1,6 +1,6 @@
 # Manuscript analysis and figure code
 
-This directory contains English-language Python code for the methods, statistical results, figures and supplementary tables in the final manuscript. It uses relative project paths or environment variables; no researcher-specific absolute paths or credentials are embedded in the scripts. The manuscript and its underlying data are not modified.
+This directory contains Python code for the methods, statistical results, figures and supplementary tables in the final manuscript. It uses relative project paths or environment variables; no researcher-specific absolute paths or credentials are embedded in the scripts. The manuscript and its underlying data are not modified.
 
 ## Inputs and outputs
 
