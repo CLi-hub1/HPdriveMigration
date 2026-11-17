@@ -1,0 +1,9 @@
+﻿Sample,Outcome,Tests,P < .05,P < .10,BH40 < .05,Holm40 < .05,BH160 < .05,Holm160 < .05
+Full,Log individuals / origin population,40,9,12,0,0,0,0
+Full,Log returns / origin population,40,10,15,0,0,0,0
+Full,"Asinh(mean AGI per return / $10,000)",40,0,1,0,0,0,0
+Full,"Asinh(AGI per 1,000 origin residents / $10,000)",40,5,6,2,1,0,0
+Exclusion,Log individuals / origin population,40,4,10,—,—,—,—
+Exclusion,Log returns / origin population,40,3,8,—,—,—,—
+Exclusion,"Asinh(mean AGI per return / $10,000)",40,0,1,—,—,—,—
+Exclusion,"Asinh(AGI per 1,000 origin residents / $10,000)",40,3,4,—,—,—,—

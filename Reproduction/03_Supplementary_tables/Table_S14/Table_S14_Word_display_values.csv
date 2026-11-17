@@ -1,0 +1,87 @@
+﻿Regressor,Linear interactions,Quadratic interactions
+Constant,"−9.0652***
+(0.0097)","−9.0597***
+(0.0172)"
+O AP Tech,"0.0056**
+(0.0025)","−0.0047
+(0.0032)"
+O AP Beh,"0.0075*
+(0.0045)","0.0103*
+(0.0056)"
+O AP Nature,"−0.0225***
+(0.0065)","0.0024
+(0.0084)"
+O MP Beh,"0.0026
+(0.0021)","0.0107***
+(0.0030)"
+O MP Nature,"0.0068
+(0.0054)","−0.0144**
+(0.0073)"
+D AP Inst,"−0.0080**
+(0.0036)","−0.0135***
+(0.0052)"
+D MP Inst,"0.0025*
+(0.0014)","0.0025
+(0.0021)"
+D MP Beh,"−0.0056**
+(0.0026)","0.0018
+(0.0042)"
+indoor share O,"18.8281**
+(7.3753)","52.0649**
+(20.4538)"
+indoor share O²,—,"−11076.7121**
+(4757.9725)"
+indoor share D,"−1.5196
+(7.2815)","−29.2991
+(20.0426)"
+indoor share D²,—,"2037.0568
+(4514.3875)"
+O AP Tech × indoor share O,"−10.5505***
+(2.2913)","16.1313***
+(5.6401)"
+O AP Tech × indoor share O²,—,"−10195.6050***
+(1880.9994)"
+O AP Beh × indoor share O,"0.5173
+(3.1866)","−5.7824
+(7.9236)"
+O AP Beh × indoor share O²,—,"1459.2474
+(2771.0466)"
+O AP Nature × indoor share O,"16.4566*
+(8.6177)","−55.8850***
+(19.4949)"
+O AP Nature × indoor share O²,—,"31047.1783***
+(7949.4621)"
+O MP Beh × indoor share O,"6.9021***
+(2.0971)","−13.7815**
+(6.7366)"
+O MP Beh × indoor share O²,—,"8676.3551***
+(2717.7746)"
+O MP Nature × indoor share O,"−24.3782***
+(4.6756)","36.1471***
+(13.9663)"
+O MP Nature × indoor share O²,—,"−19138.0700***
+(3967.9162)"
+D AP Inst × indoor share D,"23.0089***
+(3.2311)","33.0719***
+(7.8751)"
+D AP Inst × indoor share D²,—,"−2353.2225
+(1802.7598)"
+D MP Inst × indoor share D,"−0.1696
+(0.9858)","2.3928
+(3.4741)"
+D MP Inst × indoor share D²,—,"−2802.6316***
+(997.3968)"
+D MP Beh × indoor share D,"−4.9335*
+(2.7186)","−29.7477***
+(9.0810)"
+D MP Beh × indoor share D²,—,"12277.4320***
+(3625.4717)"
+Observations,"16,709","16,709"
+Directed pairs,"5,065","5,065"
+Residual df,"11,621","11,611"
+Pair fixed effects,Yes,Yes
+Year fixed effects,Yes,Yes
+SE clustering,directed county pair,directed county pair
+R²,0.0321,0.0432
+Within R²,0.0246,0.0376
+RMSE,0.1510,0.1502

@@ -1,0 +1,87 @@
+﻿Regressor,Linear interactions,Quadratic interactions
+Constant,"−9.0468***
+(0.0116)","−9.0365***
+(0.0159)"
+O AP Tech,"−0.0041**
+(0.0020)","−0.0071***
+(0.0025)"
+O AP Beh,"0.0069***
+(0.0026)","0.0064**
+(0.0029)"
+O AP Nature,"−0.0103
+(0.0064)","0.0008
+(0.0091)"
+O MP Beh,"0.0123***
+(0.0019)","0.0120***
+(0.0023)"
+O MP Nature,"−0.0144***
+(0.0051)","−0.0286***
+(0.0060)"
+D AP Inst,"0.0139***
+(0.0034)","0.0146***
+(0.0046)"
+D MP Inst,"0.0046***
+(0.0015)","0.0043**
+(0.0020)"
+D MP Beh,"−0.0132***
+(0.0023)","−0.0067**
+(0.0028)"
+renewable share O,"−0.0422
+(0.0332)","−0.2522**
+(0.1157)"
+renewable share O²,—,"0.2358**
+(0.1181)"
+renewable share D,"-9.17e-05
+(0.0343)","0.0516
+(0.1114)"
+renewable share D²,—,"−0.0778
+(0.1148)"
+O AP Tech × renewable share O,"0.0062
+(0.0079)","0.0501**
+(0.0225)"
+O AP Tech × renewable share O²,—,"−0.0509**
+(0.0244)"
+O AP Beh × renewable share O,"0.0317**
+(0.0141)","0.0432
+(0.0320)"
+O AP Beh × renewable share O²,—,"−0.0252
+(0.0424)"
+O AP Nature × renewable share O,"−0.0146
+(0.0178)","−0.1196**
+(0.0563)"
+O AP Nature × renewable share O²,—,"0.1222**
+(0.0548)"
+O MP Beh × renewable share O,"−0.0259***
+(0.0056)","−0.0254*
+(0.0150)"
+O MP Beh × renewable share O²,—,"0.0002
+(0.0164)"
+O MP Nature × renewable share O,"0.0265**
+(0.0110)","0.2269***
+(0.0467)"
+O MP Nature × renewable share O²,—,"−0.2023***
+(0.0455)"
+D AP Inst × renewable share D,"−0.0133
+(0.0144)","−0.0381
+(0.0346)"
+D AP Inst × renewable share D²,—,"0.0319
+(0.0386)"
+D MP Inst × renewable share D,"−0.0054
+(0.0035)","0.0035
+(0.0122)"
+D MP Inst × renewable share D²,—,"−0.0092
+(0.0118)"
+D MP Beh × renewable share D,"0.0183***
+(0.0065)","−0.0562***
+(0.0187)"
+D MP Beh × renewable share D²,—,"0.0825***
+(0.0197)"
+Observations,"16,709","16,709"
+Directed pairs,"5,065","5,065"
+Residual df,"11,621","11,611"
+Pair fixed effects,Yes,Yes
+Year fixed effects,Yes,Yes
+SE clustering,directed county pair,directed county pair
+R²,0.0183,0.0249
+Within R²,0.0152,0.0196
+RMSE,0.1521,0.1516

@@ -1,0 +1,30 @@
+﻿Variable,Definition,Unit of measurement,Data source
+Policy labels and portfolio counts,,,
+Heat adaptation policies (AP),"County-year total of AP type labels for U.S. adaptation actions retained by the heat, hot, high-temperature or drought screen; summed across the four AP categories.",Counts,CDP data
+Heat mitigation policies (MP),County-year total of MP type labels for substantive U.S. emissions-reduction actions; all such actions were retained without a heat-keyword screen and summed across the four MP categories.,Counts,CDP data
+Heat-related policy portfolio (HP),Combined AP and MP policy-type-label counts. A single action may receive more than one policy-type label.,Counts,CDP data
+"Population, demographic and socioeconomic variables",,,
+County population,Total county population in the migration flow-start year; used as the denominator for per-capita flow measures.,Persons,U.S. Census Bureau ACS five-year estimates
+Median household income,"County median household income in nominal U.S. dollars, entered as the natural logarithm.",ln(US$ per household),U.S. Census Bureau ACS five-year estimates
+Ageing rate,Share of the county population aged 65 years or older.,Proportion%,U.S. Census Bureau ACS five-year estimates
+Seven race-group shares,"County shares for White, Black, American Indian/Alaska Native, Asian, Native Hawaiian/other Pacific Islander, other single-race and multiracial residents; Hispanic ethnicity is not a separate eighth race group.",Proportion%,U.S. Census Bureau ACS five-year estimates
+Racial diversity,Probability that two county residents selected at random belong to different race groups: 1 - sum of squared shares across the seven groups.,Diversity index (0-1),Calculated from ACS race-group shares
+Educational attainment rate,Share of county residents aged 25 years or older with a bachelor degree or higher.,Proportion%,U.S. Census Bureau ACS five-year estimates
+Rent burden,Share of renter households with a computable rent-to-income ratio whose gross rent is at least 30% of household income.,Proportion%,U.S. Census Bureau ACS five-year estimates
+Median gross rent,"County median monthly gross rent, including applicable utility costs, entered as the natural logarithm of nominal U.S. dollars.",ln(US$ per month),U.S. Census Bureau ACS five-year estimates
+Environmental and local-resource variables,,,
+Tree-canopy share,"County land-canopy percentage converted to canopy area divided by total county area, including land and water.",Proportion (0-1),U.S. Forest Service annual 30-m tree-canopy product; TIGER/Line county area
+House-price index,Annual county house-price index entered as a natural logarithm; it measures price changes rather than dollar-valued house prices.,ln(index points),Federal Housing Finance Agency (FHFA) House Price Index
+Indoor-facility footprint share,"Mapped footprints for libraries, community centers, social facilities, places of worship and malls, summed and divided by total county area.",Proportion (0-1),Historical OpenStreetMap polygons via ohsome API; TIGER/Line county area
+Renewable-generation share,County renewable net generation divided by total net generation using the retained fuel-code grouping. Ratios slightly above 1 are capped at 1; counties without matched generation are assigned 0.,Proportion (0-1),U.S. Energy Information Administration (EIA-923 generation; EIA-860 plant locations)
+Migration and income-flow variables,,,
+IRS n2 (moving individuals),Published number of individuals moving from origin county i to destination county j over the IRS filing-year interval; the IRS -1 suppression marker is treated as unavailable.,Persons per directed flow,IRS county-to-county migration data
+IRS n1 (moving tax returns),"Published number of moving tax returns for a directed county flow, used as a household-flow proxy; the IRS -1 suppression marker is treated as unavailable.",Tax returns per directed flow,IRS county-to-county migration data
+Adjusted gross income (AGI),"Aggregate AGI reported on the IRS second filing-year return for migration-record filers, in thousands of nominal U.S. dollars. The -1 suppression marker is treated as unavailable; valid negative AGI values are retained.",Thousands of nominal US$ per directed flow,IRS county-to-county migration data
+Bilateral person outflow rate,IRS n2 from origin i to destination j divided by origin population in the flow-start year; the regression outcome is ln(n2/population).,Rate; modeled as natural-log rate,IRS n2; ACS population
+Bilateral tax-return flow rate,IRS n1 from origin i to destination j divided by origin population in the flow-start year; the flow outcome is modeled in natural logarithms.,Rate; modeled as natural-log rate,IRS n1; ACS population
+County out-migration rate,Sum of positive IRS n2 counts across observed destinations divided by origin-county population.,Proportion (reported as %),IRS n2; ACS population
+Mean AGI per moving return,"Aggregate AGI converted to nominal dollars and divided by n1; model outcome is asinh(mean AGI per return / US$10,000).",Nominal US$ per return; transformed outcome,IRS AGI and n1
+AGI intensity,"Total AGI associated with a directed flow divided by origin population and expressed per 1,000 residents; model outcome is asinh(AGI intensity / US$10,000).","Nominal US$ per 1,000 origin residents; transformed outcome",IRS AGI; ACS population
+State-to-state migration flow,Annual IRS n2 counts summed across county pairs within each directed origin-state and destination-state pair.,Individuals per annual flow,IRS n2; county-to-state mapping from TIGER/Line
+Outcome-specific quintile group,"Five ordered groups (Q1-Q5) formed separately from mean AGI, AGI intensity, person-flow rate and tax-return-flow rate.",Ordinal category (Q1-Q5),Derived from IRS flow measures and ACS population
